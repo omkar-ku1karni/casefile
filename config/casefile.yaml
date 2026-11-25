@@ -1,0 +1,40 @@
+# Casefile runtime configuration. Hashed into every run record (runs.config_hash).
+
+limits:
+  max_steps: 14          # specialist node executions per claim; the router escalates at this count
+  max_revisions: 2       # reviewer send-backs per claim, all targets combined
+  max_tokens: 60000      # per-claim token ceiling (input + reserved output), enforced before each call
+  max_usd: 0.016         # per-claim cost ceiling, enforced before each call: 1.5 x dev-v1 max ($0.0110)
+  wall_clock_s: 300      # live runs only; replays are not timed
+  estimate_safety: 1.10  # multiplier on the local input-token estimate when projecting a call
+  agent_max_tool_rounds: 4  # single_agent baseline: tool rounds before it must answer
+
+# Provider chains per agent: tried in order; a provider without a key is skipped; a rate-limited
+# provider goes on cooldown (circuit breaker). Model names are verified by `casefile doctor`.
+models:
+  default:               # fast, low-cost model for structured extraction and judgment
+    - gemini:gemini-3.5-flash-lite
+    - groq:openai/gpt-oss-120b
+    - ollama:qwen3:8b
+  reviewer:              # maker-checker: a different model family than the makers by default
+    - groq:openai/gpt-oss-120b
+    - gemini:gemini-3.5-flash-lite
+    - ollama:qwen3:8b
+
+max_output_tokens:
+  extractor: 3000
+  investigator: 1200
+  recommend: 1200
+  reviewer: 1200
+  single_prompt: 5000
+  single_agent: 5000
+
+provider_params:
+  gemini:
+    temperature: 0
+  groq:
+    temperature: 0
+    reasoning_effort: low   # gpt-oss on Groq; ignored by models without reasoning
+  ollama:
+    temperature: 0
+    num_ctx: 16384

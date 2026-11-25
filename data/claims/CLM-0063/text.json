@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0063 Date reported: 10/23/2026\nPolicy number: HM-MI-284148 Named insured: Brandon A. Lindqvist\nVehicle: 2016 Ford F-150 VIN: 1FT9PY0Y2GA728695\nDriver at time of loss: Brandon Lindqvist Date of loss: 10/22/2026\nTime of loss: 7:10 PM Location: Washington Blvd, Kalamazoo, MI\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - CR-26-77985 Damage (claimant): right side doors\nDescription of loss (in claimant's words)\nI was going through the intersection of Washington Blvd and Hillcrest Rd on a green light and a car ran the stop sign and hit my\npassenger side. Other driver was Hannah P. Hartley. Police report was filed. Honestly this whole thing has been really stressful.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "KALAMAZOO POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: CR-26-77985 Date of incident: 22 Oct 2026\nTime: 19:10 Location: Washington Blvd / Hillcrest Rd, Kalamazoo, MI\nReporting officer: Ofc. R. Delgado #786 Report date: 22 Oct 2026\nUnit 1\nDriver / owner: LINDQVIST, BRANDON A Vehicle: 2016 FORD F-150\nVIN: 1FT9PY0Y2GA428695 Insurance: Halvorne Mutual\nUnit 2\nDriver: HARTLEY, HANNAH P Insurance: other carrier\nNarrative\nV2 (HARTLEY, HANNAH P) failed to yield at the stop sign on Hillcrest Rd and struck V1 (LINDQVIST, BRANDON A) on the\npassenger side. V2 cited for failure to yield. V1 passenger side damage.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "SUMMIT AUTOWORKS\nGrand Rapids, MI - Shop ID SH24\nESTIMATE OF RECORD\nEstimate no.: E32417 Date: October 25, 2026\nCustomer: Brandon A. Lindqvist Insurer / claim: Halvorne Mutual / CLM-0063\nVehicle: 2016 Ford F-150 VIN: 1FT9PY0Y2GA428695\nSummary\nParts $1,876.68\nBody 8.1 hrs @ $61.50/hr $498.15\nPaint 7.2 hrs @ $66.50/hr $478.80\nMaterials 7.2 hrs @ $39.50/hr $284.40\nSublet/misc $0.00\nTax (6.00% on parts and materials) $129.66\nTOTAL DUE $3,267.69\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Front fender RH TR-FDR-511 1 $438.51 2.3 3.1\n2 Replace Outside mirror RH TR-MRR-520 1 $355.98 0.8 0.5\n3 Replace Front door shell RH TR-DFR-366 1 $1,082.19 5.0 3.6\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0076 Date reported: 08/04/2026\nPolicy number: HM-MI-752485 Named insured: Elena S. Novak\nVehicle: 2024 Chevrolet Silverado 1500 VIN: 1GCYWLF9XRG854703\nDriver at time of loss: Derek P. Castillo Date of loss: 08/04/2026\nTime of loss: 5:40 PM Location: Hillcrest Rd, Ann Arbor, MI\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - TR-26-23162 Damage (claimant): rear bumper and tail lights\nDescription of loss (in claimant's words)\nI was stopped at the red light at Hillcrest Rd and Lincoln Hwy in Ann Arbor when the car behind me did not stop and hit me from\nbehind. The other driver was Caleb F. Szabo. Police came and took a report.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "ANN ARBOR POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: TR-26-23162 Date of incident: 2026-08-04\nTime: 17:40 Location: Hillcrest Rd / Lincoln Hwy, Ann Arbor, MI\nReporting officer: Ofc. M. Ruiz #582 Report date: 2026-08-04\nUnit 1\nDriver / owner: CASTILLO, DEREK P Vehicle: 2024 CHEVROLET SILVERADO 1500\nVIN: 1GCYWLF9XRG854703 Insurance: Halvorne Mutual\nUnit 2\nDriver: SZABO, CALEB F Insurance: other carrier\nNarrative\nV1 (CASTILLO, DEREK P) was stopped for a red signal at Hillcrest Rd and Lincoln Hwy. V2 (SZABO, CALEB F) failed to stop and\nstruck V1 in the rear. No injuries reported. V2 cited for following too closely. V1 rear damage observed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "PRAIRIE AUTOWORKS\nKalamazoo, MI - Shop ID SH03\nESTIMATE OF RECORD\nEstimate no.: E63047 Date: August 06, 2026\nCustomer: Elena S. Novak Insurer / claim: Halvorne Mutual / CLM-0076\nVehicle: 2024 Chevrolet Silverado 1500 VIN: 1GCYWLF9XRG854703\nSummary\nParts $325.62\nBody 0.5 hrs @ $61.00/hr $30.50\nPaint 0.0 hrs @ $66.00/hr $0.00\nMaterials 0.0 hrs @ $40.50/hr $0.00\nSublet/misc $0.00\nTax (6.00% on parts and materials) $19.54\nTOTAL DUE $375.66\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Tail lamp assembly LH TR-TLL-547 1 $325.62 0.5 -\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

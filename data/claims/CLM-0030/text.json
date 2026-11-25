@@ -1,0 +1,14 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0030 Date reported: 11/04/2026\nPolicy number: HM-OH-317576 Named insured: Isaac M. Brennan\nVehicle: 2024 Ford F-150 VIN: 1FTN1L0A6RF428370\nDriver at time of loss: Isaac Brennan Date of loss: 11/01/2026\nTime of loss: 2:40 PM Location: Riverside Dr, Toledo, OH\nType of loss: Collision Other vehicle involved: No\nPolice report filed: No Damage (claimant): passenger side\nDescription of loss (in claimant's words)\nI drifted on Riverside Dr because it was foggy and scraped the passenger side along the guardrail for a few seconds before I got it\nback. Single car, no one else involved. My kids were not in the car thank goodness. I have pictures on my phone if you need them.\nDocuments submitted with this notice\nrepair estimate\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "PRECISION AUTO BODY\nAkron, OH - Shop ID SH19\nESTIMATE OF RECORD\nEstimate no.: E56626 Date: November 06, 2026\nCustomer: Isaac M. Brennan Insurer / claim: Halvorne Mutual / CLM-0030\nVehicle: 2024 Ford F-150 VIN: 1FTN1L0A6RF428370\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Outside mirror RH TR-MRR-520 1 $396.40 0.8 0.6\nParts $396.40\nBody labor 0.8 hrs @ $60.00/hr $48.00\nPaint labor 0.6 hrs @ $60.00/hr $36.00\nPaint materials 0.6 hrs @ $38.00/hr $22.80\nMisc / hazmat $0.00\nTax (5.75% on parts and materials) $24.10\nGRAND TOTAL $527.30\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

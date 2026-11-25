@@ -1,0 +1,234 @@
+{
+ "batch": "dev-v1",
+ "generated_at": "2026-11-25T15:29:07+00:00",
+ "systems": {
+  "casefile": {
+   "overall": {
+    "n": 40,
+    "accuracy": 0.95,
+    "macro_f1": 0.9526994078718217,
+    "unsafe_approval_rate": 0.0,
+    "unsafe_approvals": 0,
+    "missed_payment_rate": 0.05555555555555555,
+    "payout_exact_rate": 1.0,
+    "flag_recall": 1.0,
+    "escalation_rate": 0.0,
+    "extraction_accuracy": 1,
+    "extraction_by_field": {
+     "policy_number": 1.0,
+     "vin": 1.0,
+     "loss_date": 1.0,
+     "loss_cause": 1.0,
+     "driver_name": 1.0,
+     "other_vehicle": 1.0,
+     "police_report_number": 1.0,
+     "police_incident_date": 1.0,
+     "n_estimates": 1.0,
+     "billed_total": 1.0
+    },
+    "usd_mean": 0.00598457875,
+    "usd_p95": 0.01009648,
+    "usd_max": 0.01095015,
+    "tokens_mean": 12288.175,
+    "llm_calls_mean": 4.775,
+    "revisions_total": 12,
+    "runs_with_sendback": 11,
+    "latency_p50_s": 38.102,
+    "latency_p95_s": 283.6008999999999,
+    "ceiling_overruns": 0,
+    "max_spend_vs_ceiling": 0.219003
+   },
+   "by_scenario": {
+    "S01": {
+     "n": 2,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S02": {
+     "n": 2,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S03": {
+     "n": 3,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S04": {
+     "n": 2,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S05": {
+     "n": 3,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S06": {
+     "n": 3,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S07": {
+     "n": 2,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S08": {
+     "n": 3,
+     "accuracy": 0.6666666666666666,
+     "escalated": 0
+    },
+    "S09": {
+     "n": 3,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S10": {
+     "n": 3,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S11": {
+     "n": 3,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S12": {
+     "n": 2,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S13": {
+     "n": 3,
+     "accuracy": 0.6666666666666666,
+     "escalated": 0
+    },
+    "S14": {
+     "n": 3,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S15": {
+     "n": 3,
+     "accuracy": 1.0,
+     "escalated": 0
+    }
+   }
+  },
+  "casefile_no_reviewer": {
+   "overall": {
+    "n": 40,
+    "accuracy": 0.8,
+    "macro_f1": 0.8396432552954293,
+    "unsafe_approval_rate": 0.045454545454545456,
+    "unsafe_approvals": 1,
+    "missed_payment_rate": 0.2777777777777778,
+    "payout_exact_rate": 1.0,
+    "flag_recall": 1.0,
+    "escalation_rate": 0.0,
+    "extraction_accuracy": 1,
+    "extraction_by_field": {
+     "policy_number": 1.0,
+     "vin": 1.0,
+     "loss_date": 1.0,
+     "loss_cause": 1.0,
+     "driver_name": 1.0,
+     "other_vehicle": 1.0,
+     "police_report_number": 1.0,
+     "police_incident_date": 1.0,
+     "n_estimates": 1.0,
+     "billed_total": 1.0
+    },
+    "usd_mean": 0.0047571925,
+    "usd_p95": 0.006497104999999999,
+    "usd_max": 0.0066051,
+    "tokens_mean": 7161.075,
+    "llm_calls_mean": 3,
+    "revisions_total": 0,
+    "runs_with_sendback": 0,
+    "latency_p50_s": 30.36,
+    "latency_p95_s": 247.96439999999998,
+    "ceiling_overruns": 0,
+    "max_spend_vs_ceiling": 0.132102
+   },
+   "by_scenario": {
+    "S01": {
+     "n": 2,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S02": {
+     "n": 2,
+     "accuracy": 0.5,
+     "escalated": 0
+    },
+    "S03": {
+     "n": 3,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S04": {
+     "n": 2,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S05": {
+     "n": 3,
+     "accuracy": 0.6666666666666666,
+     "escalated": 0
+    },
+    "S06": {
+     "n": 3,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S07": {
+     "n": 2,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S08": {
+     "n": 3,
+     "accuracy": 0.0,
+     "escalated": 0
+    },
+    "S09": {
+     "n": 3,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S10": {
+     "n": 3,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S11": {
+     "n": 3,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S12": {
+     "n": 2,
+     "accuracy": 1.0,
+     "escalated": 0
+    },
+    "S13": {
+     "n": 3,
+     "accuracy": 0.6666666666666666,
+     "escalated": 0
+    },
+    "S14": {
+     "n": 3,
+     "accuracy": 0.6666666666666666,
+     "escalated": 0
+    },
+    "S15": {
+     "n": 3,
+     "accuracy": 0.6666666666666666,
+     "escalated": 0
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0032 Date reported: 07/29/2026\nPolicy number: HM-MI-344546 Named insured: Leah L. Delgado\nVehicle: 2024 Ford F-150 VIN: 1FT6SRR49RD510742\nDriver at time of loss: Bethany Bennett Date of loss: 07/26/2026\nTime of loss: 12:35 AM Location: Oak Ave, Lansing, MI\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - TR-26-48017 Damage (claimant): rear bumper, trunk, tail light\nDescription of loss (in claimant's words)\nAnother vehicle struck the back of my car while I was waiting to turn left onto Broad St. Damage to the rear of my car. Other driver:\nDana B. Ruiz. I need the car for work so I would like this handled quickly.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "LANSING POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: TR-26-48017 Date of incident: 2026-07-25\nTime: 23:55 Location: Oak Ave / Broad St, Lansing, MI\nReporting officer: Ofc. M. Castillo #955 Report date: 2026-07-25\nUnit 1\nDriver / owner: BENNETT, BETHANY S Vehicle: 2024 FORD F-150\nVIN: 1FT6SRR49RD510742 Insurance: Halvorne Mutual\nUnit 2\nDriver: RUIZ, DANA B Insurance: other carrier\nNarrative\nV1 (BENNETT, BETHANY S) was stopped for a red signal at Oak Ave and Broad St. V2 (RUIZ, DANA B) failed to stop and struck\nV1 in the rear. No injuries reported. V2 cited for following too closely. V1 rear damage observed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "PRAIRIE AUTOWORKS\nKalamazoo, MI - Shop ID SH03\nESTIMATE OF RECORD\nEstimate no.: E24247 Date: July 27, 2026\nCustomer: Leah L. Delgado Insurer / claim: Halvorne Mutual / CLM-0032\nVehicle: 2024 Ford F-150 VIN: 1FT6SRR49RD510742\nSummary\nParts $351.95\nBody 0.5 hrs @ $61.00/hr $30.50\nPaint 0.0 hrs @ $66.00/hr $0.00\nMaterials 0.0 hrs @ $40.50/hr $0.00\nSublet/misc $7.50\nTax (6.00% on parts and materials) $21.12\nTOTAL DUE $411.07\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Tail lamp assembly LH TR-TLL-547 1 $351.95 0.5 -\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

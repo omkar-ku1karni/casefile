@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+var/
+.pytest_cache/
+.ruff_cache/
+.hypothesis/
+.DS_Store
+dist/
+
+# internal build notes, kept local
+docs/PLAN.md

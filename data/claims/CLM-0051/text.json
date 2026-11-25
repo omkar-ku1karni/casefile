@@ -1,0 +1,14 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0051 Date reported: 05/20/2026\nPolicy number: HM-IN-113422 Named insured: Gavin K. Kerrigan\nVehicle: 2020 Ford F-150 VIN: 1FTWWMVN3LF125584\nDriver at time of loss: Gavin Kerrigan Date of loss: 05/17/2026\nTime of loss: 6:15 PM Location: Maple Rd, Muncie, IN\nType of loss: Weather Other vehicle involved: No\nPolice report filed: No Damage (claimant): roof and hood dents\nDescription of loss (in claimant's words)\nSevere hailstorm, golf ball sized. Car was in the driveway. Roof, hood and trunk all dented. Honestly this whole thing has been\nreally stressful. I need the car for work so I would like this handled quickly.\nDocuments submitted with this notice\nrepair estimate\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "HARBOR COLLISION CENTER\nEvansville, IN - Shop ID SH05\nPreliminary Estimate\nEstimate no.: E10827 Date: May 20, 2026\nCustomer: Gavin K. Kerrigan Insurer / claim: Halvorne Mutual / CLM-0051\nVehicle: 2020 Ford F-150 VIN: 1FTWWMVN3LF125584\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R TR-HOD-319 Hood panel 1 $731.86 1.8 3.4\n2 R&R TR-RFP-568 Roof panel 1 $1,250.23 16.4 4.1\n3 R&R TR-TRK-240 Trunk lid / liftgate 1 $840.32 2.1 3.3\nParts total $2,822.41\nSheet metal labor 20.3 hrs @ $67.50/hr $1,370.25\nRefinish labor 10.8 hrs @ $55.00/hr $594.00\nPaint supplies 10.8 hrs @ $36.00/hr $388.80\nShop supplies $0.00\nSales tax (7.00% on parts and materials) $224.78\nESTIMATE TOTAL $5,400.24\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

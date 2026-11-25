@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0060 Date reported: 10/17/2026\nPolicy number: HM-MI-618982 Named insured: Katherine C. Kowalski\nVehicle: 2009 Honda Civic VIN: 2HG4T7DE79H049562\nDriver at time of loss: Katherine C. Kowalski Date of loss: 10/17/2026\nTime of loss: 6:10 AM Location: Lincoln Hwy, Flint, MI\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - IR-26-36532 Damage (claimant): front end\nDescription of loss (in claimant's words)\nTraffic stopped suddenly on Linclon Hwy near Hillcrest Rd and I could not stop in time and hit the car in front of me. Front end\ndamage. The other driver was Victor K. Morales, police came. Please call me after 5pm, I work days.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "FLINT POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: IR-26-36532 Date of incident: 2026-10-17\nTime: 06:10 Location: Lincoln Hwy / Hillcrest Rd, Flint, MI\nReporting officer: Ofc. G. Iverson #300 Report date: 2026-10-17\nUnit 1\nDriver / owner: KOWALSKI, KATHERINE C Vehicle: 2009 HONDA CIVIC\nVIN: 2HG4T7DE79H049562 Insurance: Halvorne Mutual\nUnit 2\nDriver: MORALES, VICTOR K Insurance: other carrier\nNarrative\nV1 (KOWALSKI, KATHERINE C) struck the rear of V2 (MORALES, VICTOR K) which was slowing for traffic on Lincoln Hwy near\nHillcrest Rd. V1 front-end damage. V1 driver cited for assured clear distance.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "SUMMIT BODY & PAINT\nGrand Rapids, MI - Shop ID SH18\nESTIMATE OF RECORD\nEstimate no.: E20161 Date: October 20, 2026\nCustomer: Katherine C. Kowalski Insurer / claim: Halvorne Mutual / CLM-0060\nVehicle: 2009 Honda Civic VIN: 2HG4T7DE79H049562\nSummary\nParts $3,556.48\nBody 19.0 hrs @ $63.50/hr $1,206.50\nPaint 12.1 hrs @ $64.50/hr $780.45\nMaterials 12.1 hrs @ $41.00/hr $496.10\nSublet/misc $4.50\nTax (6.00% on parts and materials) $243.15\nTOTAL DUE $6,287.18\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Front bumper cover CP-FBC-959 1 $412.41 2.5 2.4\n2 Replace Grille assembly CP-GRL-576 1 $201.92 0.6 -\n3 Replace Headlamp assembly LH CP-HLL-204 1 $359.09 0.8 -\n4 Replace Headlamp assembly RH CP-HLR-146 1 $399.04 0.8 -\n5 Replace Hood panel CP-HOD-726 1 $559.06 1.5 3.3\n6 Replace Front fender LH CP-FDL-692 1 $307.15 2.0 2.4\n7 Replace Front fender RH CP-FDR-287 1 $279.86 2.2 2.5\n8 Replace Radiator support CP-RSP-518 1 $380.24 5.1 1.5\n9 Replace A/C condenser CP-CND-972 1 $306.76 2.0 -\n10 Replace Radiator CP-RAD-765 1 $350.95 1.5 -\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

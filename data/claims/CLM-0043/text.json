@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0043 Date reported: 06/02/2026\nPolicy number: HM-IN-494394 Named insured: Tara S. Delgado\nVehicle: 2024 Hyundai Elantra VIN: 5NPZHB4U0RE102053\nDriver at time of loss: Tara Delgado Date of loss: 05/29/2026\nTime of loss: 9:00 PM Location: Broad St, Lafayette, IN\nType of loss: Vandalism Other vehicle involved: No\nPolice report filed: Yes - IR-26-37743 Damage (claimant): right side doors\nDescription of loss (in claimant's words)\nFound deep scratches along the passenger side doors this morning, looks deliberate. Car was parked at the grocery store. I\nreported it to police. Honestly this whole thing has been really stressful. The shop said they could start next week once approved.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "LAFAYETTE POLICE DEPARTMENT (synthetic)\nIncident Report\nReport no.: IR-26-37743 Date of incident: 29 May 2026\nTime: 21:00 Location: Broad St / Broad St, Lafayette, IN\nReporting officer: Ofc. M. Ostrowski #932 Report date: 29 May 2026\nUnit 1\nDriver / owner: DELGADO, TARA S Vehicle: 2024 HYUNDAI ELANTRA\nVIN: 5NPZHB4U0RE102053 Insurance: Halvorne Mutual\nNarrative\nComplainant reports V1 (DELGADO, TARA S) was scratched (keyed) along the passenger side while parked on Broad St. No\nsuspects. Damage photographed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "RIDGEWAY COLLISION CENTER\nFort Wayne, IN - Shop ID SH08\nPreliminary Estimate\nEstimate no.: E46347 Date: June 01, 2026\nCustomer: Tara S. Delgado Insurer / claim: Halvorne Mutual / CLM-0043\nVehicle: 2024 Hyundai Elantra VIN: 5NPZHB4U0RE102053\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 Refinish CP-DFR-811 Front door shell RH 1 - - 2.7\n2 Refinish CP-DRR-276 Rear door shell RH 1 - - 2.7\n3 Refinish CP-QPR-192 Quarter panel RH 1 - - 3.3\n4 Refinish CP-FDR-287 Front fender RH 1 - - 2.5\nParts total $0.00\nSheet metal labor 0.0 hrs @ $53.50/hr $0.00\nRefinish labor 11.2 hrs @ $55.00/hr $616.00\nPaint supplies 11.2 hrs @ $36.00/hr $403.20\nShop supplies $12.50\nSales tax (7.00% on parts and materials) $28.22\nESTIMATE TOTAL $1,059.92\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0105 Date reported: 11/08/2026\nPolicy number: HM-IN-626459 Named insured: Victor R. Achterberg\nVehicle: 2024 Chevrolet Silverado 1500 VIN: 1GC21CKBXRA431732\nDriver at time of loss: Irene W. Achterberg Date of loss: 11/07/2026\nTime of loss: 9:20 PM Location: Washington Blvd, Kokomo, IN\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - IR-26-72974 Damage (claimant): rear bumper and tail lights\nDescription of loss (in claimant's words)\nSitting in traffic on Washington Blvd, got rear ended by another car going maybe 25. Rear bumper and trunk are smashed, tail light\nbroken. Other driver (Katherine H. Szabo) admitted fault to the officer. I already got an estimate from the body shop.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "KOKOMO POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: IR-26-72974 Date of incident: 2026-10-27\nTime: 21:20 Location: Washington Blvd / Broad St, Kokomo, IN\nReporting officer: Ofc. Y. Hartley #765 Report date: 2026-10-27\nUnit 1\nDriver / owner: ACHTERBERG, IRENE W Vehicle: 2024 CHEVROLET SILVERADO 1500\nVIN: 1GC21CKBXRA431732 Insurance: Halvorne Mutual\nUnit 2\nDriver: SZABO, KATHERINE H Insurance: other carrier\nNarrative\nV1 (ACHTERBERG, IRENE W) was stopped for a red signal at Washington Blvd and Broad St. V2 (SZABO, KATHERINE H) failed\nto stop and struck V1 in the rear. No injuries reported. V2 cited for following too closely. V1 rear damage observed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "LAKEVIEW AUTO BODY\nKokomo, IN - Shop ID SH14\nPreliminary Estimate\nEstimate no.: E42542 Date: November 09, 2026\nCustomer: Victor R. Achterberg Insurer / claim: Halvorne Mutual / CLM-0105\nVehicle: 2024 Chevrolet Silverado 1500 VIN: 1GC21CKBXRA431732\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R TR-RBC-667 Rear bumper cover 1 $579.65 2.6 3.0\n2 R&R TR-TLL-547 Tail lamp assembly LH1 $352.86 0.5 -\n3 R&R TR-TLR-517 Tail lamp assembly RH1 $370.11 0.5 -\n4 R&R TR-TRK-240 Trunk lid / liftgate 1 $852.54 2.1 3.8\n5 R&R TR-RBP-204 Rear body panel 1 $402.47 7.2 2.5\n6 R&R TR-QPL-862 Quarter panel LH 1 $984.90 12.8 3.7\nParts total $3,542.53\nSheet metal labor 25.7 hrs @ $54.50/hr $1,400.65\nRefinish labor 13.0 hrs @ $57.50/hr $747.50\nPaint supplies 13.0 hrs @ $35.50/hr $461.50\nShop supplies $12.50\nSales tax (7.00% on parts and materials) $280.28\nESTIMATE TOTAL $6,444.96\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

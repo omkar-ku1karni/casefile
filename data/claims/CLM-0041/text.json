@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0041 Date reported: 09/06/2026\nPolicy number: HM-OH-332230 Named insured: Leah H. Vance\nVehicle: 2017 Nissan Altima VIN: 1N405UAF6HE150778\nDriver at time of loss: Leah Vance Date of loss: 09/02/2026\nTime of loss: 10:05 PM Location: Broad St, Columbus, OH\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - TR-26-80947 Damage (claimant): rear bumper and tail lights\nDescription of loss (in claimant's words)\nSitting in traffic on Broad St, got rear ended by another car going maybe 25. Rear bumper and trunk are smashed, tail light broken.\nOther driver (Bethany K. Delgado) admitted fault to the officer.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "COLUMBUS POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: TR-26-80947 Date of incident: 02 Sep 2026\nTime: 22:05 Location: Broad St / County Rd 12, Columbus, OH\nReporting officer: Ofc. B. Pruitt #121 Report date: 02 Sep 2026\nUnit 1\nDriver / owner: VANCE, LEAH H Vehicle: 2017 NISSAN ALTIMA\nVIN: 1N405UAF6HE150778 Insurance: Halvorne Mutual\nUnit 2\nDriver: DELGADO, BETHANY K Insurance: other carrier\nNarrative\nV1 (VANCE, LEAH H) was stopped for a red signal at Broad St and County Rd 12. V2 (DELGADO, BETHANY K) failed to stop\nand struck V1 in the rear. No injuries reported. V2 cited for following too closely. V1 rear damage observed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "HEARTLAND AUTO BODY\nToledo, OH - Shop ID SH10\nESTIMATE OF RECORD\nEstimate no.: E25889 Date: September 04, 2026\nCustomer: Leah H. Vance Insurer / claim: Halvorne Mutual / CLM-0041\nVehicle: 2017 Nissan Altima VIN: 1N405UAF6HE150778\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Headlamp assembly LH MS-HLL-930 1 $449.57 0.8 -\n2 Repl Front fender LH MS-FDL-405 1 $337.47 2.1 2.7\n3 Repl Front bumper cover MS-FBC-892 1 $481.65 2.7 2.9\nParts $1,268.69\nBody labor 5.6 hrs @ $60.50/hr $338.80\nPaint labor 5.6 hrs @ $62.00/hr $347.20\nPaint materials 5.6 hrs @ $37.50/hr $210.00\nMisc / hazmat $4.50\nTax (5.75% on parts and materials) $85.02\nGRAND TOTAL $2,254.21\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

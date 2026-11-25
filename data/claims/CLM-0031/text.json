@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0031 Date reported: 10/22/2026\nPolicy number: HM-OH-623482 Named insured: Erin A. Delgado\nVehicle: 2021 Toyota Camry VIN: 4T1EFZ2C5MA124713\nDriver at time of loss: Lauren Holloway Date of loss: 10/22/2026\nTime of loss: 6:20 PM Location: Maple Rd, Mansfield, OH\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - CR-26-95053 Damage (claimant): rear bumper, trunk, tail light\nDescription of loss (in claimant's words)\nI was stopped at the red light at Maple Rd and Main St in Mansfield when the car behind me did not stop and hit me from behind.\nThe other driver was Owen L. Iverson. Police came and took a report. The shop said they could start next week once approved.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "MANSFIELD POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: CR-26-95053 Date of incident: 22 Oct 2026\nTime: 18:20 Location: Maple Rd / Main St, Mansfield, OH\nReporting officer: Ofc. N. Kowalski #134 Report date: 22 Oct 2026\nUnit 1\nDriver / owner: HOLLOWAY, LAUREN A Vehicle: 2021 TOYOTA CAMRY\nVIN: 4T1EFZ2C5MA124713 Insurance: Halvorne Mutual\nUnit 2\nDriver: IVERSON, OWEN L Insurance: other carrier\nNarrative\nV1 (HOLLOWAY, LAUREN A) was stopped for a red signal at Maple Rd and Main St. V2 (IVERSON, OWEN L) failed to stop and\nstruck V1 in the rear. No injuries reported. V2 cited for following too closely. V1 rear damage observed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "HEARTLAND AUTO BODY\nToledo, OH - Shop ID SH10\nESTIMATE OF RECORD\nEstimate no.: E89187 Date: October 26, 2026\nCustomer: Erin A. Delgado Insurer / claim: Halvorne Mutual / CLM-0031\nVehicle: 2021 Toyota Camry VIN: 4T1EFZ2C5MA124713\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Front bumper cover MS-FBC-892 1 $506.05 2.3 2.8\n2 Repl Grille assembly MS-GRL-903 1 $233.06 0.6 -\n3 Repl Headlamp assembly LH MS-HLL-930 1 $458.32 0.7 -\nParts $1,197.43\nBody labor 3.6 hrs @ $60.50/hr $217.80\nPaint labor 2.8 hrs @ $62.00/hr $173.60\nPaint materials 2.8 hrs @ $37.50/hr $105.00\nMisc / hazmat $12.50\nTax (5.75% on parts and materials) $74.89\nGRAND TOTAL $1,781.22\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

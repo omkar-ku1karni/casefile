@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0090 Date reported: 08/10/2026\nPolicy number: HM-IN-988382 Named insured: Victor E. Mbeki\nVehicle: 2025 Ford F-150 VIN: 1FT95USN8SF869477\nDriver at time of loss: Victor E. Mbeki Date of loss: 08/07/2026\nTime of loss: 9:15 PM Location: Washington Blvd, Muncie, IN\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - CR-26-65562 Damage (claimant): rear bumper and tail lights\nDescription of loss (in claimant's words)\nAnother vehicle struck the back of my car while I was watiing to turn left onto Maple Rd. Damage to the rear of my car. Other\ndriver: Hector E. Mbeki. The shop said they could start next week once approved.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "MUNCIE POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: CR-26-65562 Date of incident: 07 Aug 2026\nTime: 21:15 Location: Washington Blvd / Maple Rd, Muncie, IN\nReporting officer: Ofc. C. Fenwick #388 Report date: 07 Aug 2026\nUnit 1\nDriver / owner: MBEKI, VICTOR E Vehicle: 2025 FORD F-150\nVIN: 1FT95USN8SF869473 Insurance: Halvorne Mutual\nUnit 2\nDriver: MBEKI, HECTOR E Insurance: other carrier\nNarrative\nV1 (MBEKI, VICTOR E) was stopped for a red signal at Washington Blvd and Maple Rd. V2 (MBEKI, HECTOR E) failed to stop\nand struck V1 in the rear. No injuries reported. V2 cited for following too closely. V1 rear damage observed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "LAKEVIEW AUTO BODY\nKokomo, IN - Shop ID SH14\nPreliminary Estimate\nEstimate no.: E52742 Date: August 13, 2026\nCustomer: Victor E. Mbeki Insurer / claim: Halvorne Mutual / CLM-0090\nVehicle: 2025 Ford F-150 VIN: 1FT95USN8SF869473\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R TR-TLL-547 Tail lamp assembly LH1 $327.00 0.5 -\n2 R&R TR-RBC-667 Rear bumper cover 1 $550.04 2.6 2.9\n3 R&R TR-TLR-517 Tail lamp assembly RH1 $331.30 0.5 -\nParts total $1,208.34\nSheet metal labor 3.6 hrs @ $54.50/hr $196.20\nRefinish labor 2.9 hrs @ $57.50/hr $166.75\nPaint supplies 2.9 hrs @ $35.50/hr $102.95\nShop supplies $4.50\nSales tax (7.00% on parts and materials) $91.79\nESTIMATE TOTAL $1,770.53\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

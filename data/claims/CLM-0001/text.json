@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0001 Date reported: 06/30/2026\nPolicy number: HM-IN-899282 Named insured: Gavin T. Holloway\nVehicle: 2021 Toyota RAV4 VIN: 2T3VLWC42MF071945\nDriver at time of loss: Erin N. Holloway Date of loss: 06/27/2026\nTime of loss: 6:00 PM Location: Cedar Ln, Evansville, IN\nType of loss: Theft Other vehicle involved: No\nPolice report filed: Yes - IR-26-30172 Damage (claimant): exhaust / catalytic converter\nDescription of loss (in claimant's words)\nWent to start my car and it was extremely loud. Mechanic says the catalytic convetrer was cut off. It was parked in my driveway\novernight. I have pictures on my phone if you need them. Honestly this whole thing has been really stressful.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "EVANSVILLE POLICE DEPARTMENT (synthetic)\nIncident Report\nReport no.: IR-26-30172 Date of incident: 2026-06-18\nTime: 18:00 Location: Cedar Ln / Route 23, Evansville, IN\nReporting officer: Ofc. H. Vance #305 Report date: 2026-06-18\nUnit 1\nDriver / owner: HOLLOWAY, ERIN N Vehicle: 2021 TOYOTA RAV4\nVIN: 2T3VLWC42MF071945 Insurance: Halvorne Mutual\nNarrative\nComplainant reports the catalytic converter was cut from V1 (HOLLOWAY, ERIN N) while parked overnight at the residence. Saw\nmarks observed on exhaust.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "CORNERSTONE AUTOWORKS\nFort Wayne, IN - Shop ID SH17\nPreliminary Estimate\nEstimate no.: E83827 Date: July 01, 2026\nCustomer: Gavin T. Holloway Insurer / claim: Halvorne Mutual / CLM-0001\nVehicle: 2021 Toyota RAV4 VIN: 2T3VLWC42MF071945\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R SU-CAT-930 Catalytic converter 1 $1,478.03 2.1 -\nParts total $1,478.03\nSheet metal labor 2.1 hrs @ $53.50/hr $112.35\nRefinish labor 0.0 hrs @ $56.50/hr $0.00\nPaint supplies 0.0 hrs @ $35.50/hr $0.00\nShop supplies $7.50\nSales tax (7.00% on parts and materials) $103.46\nESTIMATE TOTAL $1,701.34\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

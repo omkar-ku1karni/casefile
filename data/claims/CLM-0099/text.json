@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0099 Date reported: 07/10/2026\nPolicy number: HM-IN-270313 Named insured: Aisha R. Bennett\nVehicle: 2021 Hyundai Elantra VIN: 5NPNCT8P4MB534916\nDriver at time of loss: Leah G. Brennan Date of loss: 07/10/2026\nTime of loss: 6:30 AM Location: Washington Blvd, Muncie, IN\nType of loss: Collision Other vehicle involved: No\nPolice report filed: No Damage (claimant): hood and front bumper\nDescription of loss (in claimant's words)\nComing home on Washington Blvd, foggy conditions. Lost traction on the curve by Broad St and hit a signpost with the front of the\ncar. I was able to drive it home slowly. I have been a Halvorne customer for years and never had a claim like this. Please call me\nafter 5pm, I work days.\nDocuments submitted with this notice\nrepair estimates\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "LAKEVIEW AUTOWORKS\nLafayette, IN - Shop ID SH02\nPreliminary Estimate\nEstimate no.: E44553 Date: July 12, 2026\nCustomer: Aisha R. Bennett Insurer / claim: Halvorne Mutual / CLM-0099\nVehicle: 2021 Hyundai Elantra VIN: 5NPNCT8P4MB534916\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R CP-FBC-959 Front bumper cover 1 $437.52 2.5 2.5\nParts total $437.52\nSheet metal labor 2.5 hrs @ $55.00/hr $137.50\nRefinish labor 2.5 hrs @ $55.50/hr $138.75\nPaint supplies 2.5 hrs @ $36.00/hr $90.00\nShop supplies $0.00\nSales tax (7.00% on parts and materials) $36.93\nESTIMATE TOTAL $840.70\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ },
+ "estimate_supplement": {
+  "type": "estimate",
+  "pages": [
+   "LAKEVIEW AUTOWORKS\nLafayette, IN - Shop ID SH02\nSUPPLEMENT 1\nEstimate no.: E44553-S1 Date: July 20, 2026\nCustomer: Aisha R. Bennett Insurer / claim: Halvorne Mutual / CLM-0099\nVehicle: 2021 Hyundai Elantra VIN: 5NPNCT8P4MB534916\nSupplements: E44553 Reason: hidden damage found at teardown\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R CP-RSP-518 Radiator support 1 $334.95 5.0 1.5\n2 R&R CP-CND-972 A/C condenser 1 $301.40 1.9 -\nParts total $636.35\nSheet metal labor 6.9 hrs @ $55.00/hr $379.50\nRefinish labor 1.5 hrs @ $55.50/hr $83.25\nPaint supplies 1.5 hrs @ $36.00/hr $54.00\nShop supplies $0.00\nSales tax (7.00% on parts and materials) $48.32\nESTIMATE TOTAL $1,201.42\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

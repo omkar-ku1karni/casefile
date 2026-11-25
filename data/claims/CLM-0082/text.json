@@ -1,0 +1,14 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0082 Date reported: 05/25/2026\nPolicy number: HM-OH-608877 Named insured: Wesley S. Dempsey\nVehicle: 2009 Honda Civic VIN: 2HG2BEMB69F491438\nDriver at time of loss: Wesley Dempsey Date of loss: 05/23/2026\nTime of loss: 9:45 AM Location: Elm St, Mansfield, OH\nType of loss: Collision Other vehicle involved: No\nPolice report filed: No Damage (claimant): front end\nDescription of loss (in claimant's words)\nMy car went off Elm St in Mansfield and struck a utility pole. It was icy out. All the damage is in the front - bumper is pushed in and\na light is broken. The shop said they could start next week once approved.\nDocuments submitted with this notice\nrepair estimate\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "MAPLEWOOD COLLISION\nColumbus, OH - Shop ID SH13\nESTIMATE OF RECORD\nEstimate no.: E19699 Date: May 28, 2026\nCustomer: Wesley S. Dempsey Insurer / claim: Halvorne Mutual / CLM-0082\nVehicle: 2009 Honda Civic VIN: 2HG2BEMB69F491438\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Front bumper cover CP-FBC-959 1 $413.17 2.5 2.7\n2 Repl Grille assembly CP-GRL-576 1 $211.32 0.6 -\n3 Repl Headlamp assembly LH CP-HLL-204 1 $392.11 0.8 -\n4 Repl Headlamp assembly RH CP-HLR-146 1 $395.92 0.8 -\n5 Repl Hood panel CP-HOD-726 1 $540.92 1.5 3.4\n6 Repl Front fender LH CP-FDL-692 1 $301.28 2.2 2.3\n7 Repl Front fender RH CP-FDR-287 1 $274.66 2.2 2.7\n8 Repl Radiator support CP-RSP-518 1 $352.28 5.7 1.5\n9 Repl A/C condenser CP-CND-972 1 $322.90 2.0 -\n10 Repl Radiator CP-RAD-765 1 $334.60 1.8 -\nParts $3,539.16\nBody labor 20.1 hrs @ $60.50/hr $1,216.05\nPaint labor 12.6 hrs @ $59.50/hr $749.70\nPaint materials 12.6 hrs @ $38.00/hr $478.80\nMisc / hazmat $12.50\nTax (5.75% on parts and materials) $231.03\nGRAND TOTAL $6,227.24\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

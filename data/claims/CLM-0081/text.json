@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0081 Date reported: 08/19/2026\nPolicy number: HM-MI-337244 Named insured: Victor W. Sutton\nVehicle: 2024 Chevrolet Equinox VIN: 2GNLW3TLXRG227090\nDriver at time of loss: Victor W. Sutton Date of loss: 08/17/2026\nTime of loss: 8:45 PM Location: Market St, Grand Rapids, MI\nType of loss: Collision Other vehicle involved: No\nPolice report filed: Yes - IR-26-44605 Damage (claimant): front end\nDescription of loss (in claimant's words)\nComing home on Market St, dark conditions. Lost traction on the curve by Hillcrest Rd and hit a light pole with the front of the car. I\nwas able to drive it home slowly. My kids were not in the car thank goodness. I have pictures on my phone if you need them.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "GRAND RAPIDS POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: IR-26-44605 Date of incident: 17 Aug 2026\nTime: 20:45 Location: Market St / Hillcrest Rd, Grand Rapids, MI\nReporting officer: Ofc. P. Kowalski #291 Report date: 17 Aug 2026\nUnit 1\nDriver / owner: SUTTON, VICTOR W Vehicle: 2024 CHEVROLET EQUINOX\nVIN: 2GNLW3TLXRG227090 Insurance: Halvorne Mutual\nNarrative\nV1 (SUTTON, VICTOR W) was traveling on Market St when the driver lost control on dark pavement and struck a light pole. Single\nvehicle. No injuries. V1 sustained front-end damage.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "SUMMIT AUTOWORKS\nGrand Rapids, MI - Shop ID SH24\nESTIMATE OF RECORD\nEstimate no.: E21807 Date: August 19, 2026\nCustomer: Victor W. Sutton Insurer / claim: Halvorne Mutual / CLM-0081\nVehicle: 2024 Chevrolet Equinox VIN: 2GNLW3TLXRG227090\nSummary\nParts $1,168.79\nBody 3.9 hrs @ $61.50/hr $239.85\nPaint 3.1 hrs @ $66.50/hr $206.15\nMaterials 3.1 hrs @ $39.50/hr $122.45\nSublet/misc $4.50\nTax (6.00% on parts and materials) $77.47\nTOTAL DUE $1,819.21\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Headlamp assembly LH SU-HLL-544 1 $494.61 0.8 -\n2 Replace Front fender LH SU-FDL-815 1 $385.89 2.4 3.1\n3 Replace Grille assembly SU-GRL-668 1 $288.29 0.7 -\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

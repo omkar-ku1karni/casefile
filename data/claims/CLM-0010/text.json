@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0010 Date reported: 10/20/2026\nPolicy number: HM-IN-401749 Named insured: Katherine K. Nguyen\nVehicle: 2012 Honda Accord VIN: 1HGEE27T6CH063408\nDriver at time of loss: Derek P. Nguyen Date of loss: 10/17/2026\nTime of loss: 10:20 PM Location: Cedar Ln, Evansville, IN\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - CR-26-16992 Damage (claimant): front end\nDescription of loss (in claimant's words)\nI rear-ended a vehicle that braked hard for a yellow light at Cedar Ln/County Rd 12. My hood and bumper are damaged. Other\nparty: Raymond J. Morales.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "EVANSVILLE POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: CR-26-16992 Date of incident: 17 Oct 2026\nTime: 22:20 Location: Cedar Ln / County Rd 12, Evansville, IN\nReporting officer: Ofc. R. Abernathy #419 Report date: 17 Oct 2026\nUnit 1\nDriver / owner: NGUYEN, DEREK P Vehicle: 2012 HONDA ACCORD\nVIN: 1HGEE27T6CH063408 Insurance: Halvorne Mutual\nUnit 2\nDriver: MORALES, RAYMOND J Insurance: other carrier\nNarrative\nV1 (NGUYEN, DEREK P) struck the rear of V2 (MORALES, RAYMOND J) which was slowing for traffic on Cedar Ln near County\nRd 12. V1 front-end damage. V1 driver cited for assured clear distance.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "RIDGEWAY COLLISION CENTER\nFort Wayne, IN - Shop ID SH08\nPreliminary Estimate\nEstimate no.: E70629 Date: October 18, 2026\nCustomer: Katherine K. Nguyen Insurer / claim: Halvorne Mutual / CLM-0010\nVehicle: 2012 Honda Accord VIN: 1HGEE27T6CH063408\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R MS-FBC-892 Front bumper cover 1 $459.75 2.4 2.7\n2 R&R MS-GRL-903 Grille assembly 1 $254.72 0.6 -\n3 R&R MS-HLL-930 Headlamp assembly LH1 $424.18 0.8 -\n4 R&R MS-HLR-868 Headlamp assembly R1H $464.69 0.8 -\n5 R&R MS-HOD-803 Hood panel 1 $653.50 1.6 3.1\n6 R&R MS-FDL-405 Front fender LH 1 $319.12 2.3 2.7\n7 R&R MS-FDR-830 Front fender RH 1 $353.00 2.3 2.4\n8 R&R MS-RSP-359 Radiator support 1 $405.02 6.2 1.4\n9 R&R MS-CND-764 A/C condenser 1 $348.89 2.0 -\n10 R&R MS-RAD-197 Radiator 1 $393.45 1.8 -\nParts total $4,076.32\nSheet metal labor 20.8 hrs @ $53.50/hr $1,112.80\nRefinish labor 12.3 hrs @ $55.00/hr $676.50\nPaint supplies 12.3 hrs @ $36.00/hr $442.80\nShop supplies $12.50\nSales tax (7.00% on parts and materials) $316.34\nESTIMATE TOTAL $6,637.26\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

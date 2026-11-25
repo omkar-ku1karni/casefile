@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0091 Date reported: 05/15/2026\nPolicy number: HM-MI-342051 Named insured: Lauren S. Okafor\nVehicle: 2021 Hyundai Elantra VIN: 5NPMS3W87MB554034\nDriver at time of loss: Mei J. Okafor Date of loss: 05/13/2026\nTime of loss: 5:15 PM Location: County Rd 12, Flint, MI\nType of loss: Animal Other vehicle involved: No\nPolice report filed: Yes - IR-26-43898 Damage (claimant): front end\nDescription of loss (in claimant's words)\nA deer ran out in front of me on County Rd 12 near Flint. I swerved hard to miss it and went into the ditch and hit a signpost. I\nnever actually touched the deer, it ran off. Honestly this whole thing has been really stressful.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "FLINT POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: IR-26-43898 Date of incident: 13 May 2026\nTime: 17:15 Location: County Rd 12 / Lincoln Hwy, Flint, MI\nReporting officer: Ofc. F. Patel #385 Report date: 13 May 2026\nUnit 1\nDriver / owner: OKAFOR, MEI J Vehicle: 2021 HYUNDAI ELANTRA\nVIN: 5NPMS3W87MB554034 Insurance: Halvorne Mutual\nNarrative\nV1 (OKAFOR, MEI J) swerved to avoid a deer on County Rd 12, left the roadway and struck a signpost. Driver states no contact\nwith the animal. V1 front-end damage.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "SUMMIT BODY & PAINT\nGrand Rapids, MI - Shop ID SH18\nESTIMATE OF RECORD\nEstimate no.: E55320 Date: May 17, 2026\nCustomer: Lauren S. Okafor Insurer / claim: Halvorne Mutual / CLM-0091\nVehicle: 2021 Hyundai Elantra VIN: 5NPMS3W87MB554034\nSummary\nParts $1,106.18\nBody 5.3 hrs @ $63.50/hr $336.55\nPaint 5.2 hrs @ $64.50/hr $335.40\nMaterials 5.2 hrs @ $41.00/hr $213.20\nSublet/misc $7.50\nTax (6.00% on parts and materials) $79.16\nTOTAL DUE $2,077.99\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Front fender LH CP-FDL-692 1 $300.55 2.1 2.6\n2 Replace Front bumper cover CP-FBC-959 1 $399.90 2.4 2.6\n3 Replace Headlamp assembly LH CP-HLL-204 1 $405.73 0.8 -\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

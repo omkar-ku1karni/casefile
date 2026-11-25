@@ -1,0 +1,55 @@
+[project]
+name = "casefile"
+version = "0.1.0"
+description = "Multi-agent claims triage with typed handoffs, hard termination guards, pre-call budget ceilings, replayable runs and a human approval gate."
+readme = "README.md"
+authors = [
+    { name = "Omkar Kulkarni", email = "reachomkarkulkarni.work@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.165.0",
+    "fpdf2>=2.9.0",
+    "google-genai>=3.6.1",
+    "groq>=1.7.0",
+    "httpx>=0.28.1",
+    "langfuse>=5.2.0",
+    "langgraph>=1.2.24",
+    "langgraph-checkpoint-postgres>=3.2.1",
+    "matplotlib>=3.11.2",
+    "pdfplumber>=0.11.11",
+    "pgserver>=0.1.4",
+    "psycopg[binary,pool]>=3.3.9",
+    "pydantic>=2.14.4",
+    "python-dotenv>=1.2.4",
+    "pyyaml>=6.0.4",
+    "tiktoken>=0.14.0",
+    "typer>=0.29.2",
+    "uvicorn>=0.54.0",
+]
+
+[project.scripts]
+casefile = "casefile.cli:app"
+
+[build-system]
+requires = ["uv_build>=0.12.1,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "hypothesis>=6.170.17",
+    "pytest>=9.2.0",
+    "ruff>=0.17.6",
+]
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501", "B008", "B905"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["db: needs the embedded Postgres"]

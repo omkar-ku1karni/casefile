@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0053 Date reported: 03/10/2026\nPolicy number: HM-IN-982883 Named insured: Kwame L. Nguyen\nVehicle: 2017 Toyota Corolla VIN: 2T1MJTAK7HG820973\nDriver at time of loss: Priya B. Nguyen Date of loss: 03/08/2026\nTime of loss: 6:45 AM Location: Hillcrest Rd, Muncie, IN\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - IR-26-58976 Damage (claimant): rear bumper, trunk, tail light\nDescription of loss (in claimant's words)\nAnother vehicle struck the back of my car while I was waiting to turn left onto State Route 9. Damage to the rear of my car. Other\ndriver: Grace E. Ruiz. Please call me after 5pm, I work days. I need the car for work so I would like this handled quickly.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "MUNCIE POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: IR-26-58976 Date of incident: 08 Mar 2026\nTime: 06:45 Location: Hillcrest Rd / State Route 9, Muncie, IN\nReporting officer: Ofc. H. Okafor #704 Report date: 08 Mar 2026\nUnit 1\nDriver / owner: NGUYEN, PRIYA B Vehicle: 2017 TOYOTA COROLLA\nVIN: 2T1MJTAK7HG820973 Insurance: Halvorne Mutual\nUnit 2\nDriver: RUIZ, GRACE E Insurance: other carrier\nNarrative\nV1 (NGUYEN, PRIYA B) was stopped for a red signal at Hillcrest Rd and State Route 9. V2 (RUIZ, GRACE E) failed to stop and\nstruck V1 in the rear. No injuries reported. V2 cited for following too closely. V1 rear damage observed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "CORNERSTONE AUTOWORKS\nFort Wayne, IN - Shop ID SH17\nPreliminary Estimate\nEstimate no.: E13051 Date: March 10, 2026\nCustomer: Kwame L. Nguyen Insurer / claim: Halvorne Mutual / CLM-0053\nVehicle: 2017 Toyota Corolla VIN: 2T1MJTAK7HG820973\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R CP-RBC-401 Rear bumper cover 1 $414.45 2.0 2.5\n2 R&R CP-TLR-675 Tail lamp assembly RH1 $237.58 0.4 -\n3 R&R CP-TLL-805 Tail lamp assembly LH1 $229.89 0.4 -\nParts total $881.92\nSheet metal labor 2.8 hrs @ $53.50/hr $149.80\nRefinish labor 2.5 hrs @ $56.50/hr $141.25\nPaint supplies 2.5 hrs @ $35.50/hr $88.75\nShop supplies $0.00\nSales tax (7.00% on parts and materials) $67.95\nESTIMATE TOTAL $1,329.67\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

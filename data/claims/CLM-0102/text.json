@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0102 Date reported: 08/06/2026\nPolicy number: HM-MI-903937 Named insured: Dana B. Mbeki\nVehicle: 2024 Nissan Altima VIN: 1N4BRE3Y9RF315858\nDriver at time of loss: Dana Mbeki Date of loss: 08/05/2026\nTime of loss: 2:10 PM Location: Hillcrest Rd, Grand Rapids, MI\nType of loss: Vandalism Other vehicle involved: No\nPolice report filed: Yes - CR-26-64740 Damage (claimant): passenger side doors and mirror\nDescription of loss (in claimant's words)\nSomeone smashed the passenger front window of my car overnight. Glass everywhere, nothing taken as far as I can tell. The\nshop said they could start next week once approved.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "GRAND RAPIDS POLICE DEPARTMENT (synthetic)\nIncident Report\nReport no.: CR-26-64740 Date of incident: 05 Aug 2026\nTime: 14:10 Location: Hillcrest Rd / Cedar Ln, Grand Rapids, MI\nReporting officer: Ofc. V. Novak #966 Report date: 05 Aug 2026\nUnit 1\nDriver / owner: MBEKI, DANA B Vehicle: 2024 NISSAN ALTIMA\nVIN: 1N4BRE3Y9RF315858 Insurance: Halvorne Mutual\nNarrative\nComplainant reports the passenger front window of V1 (MBEKI, DANA B) was broken while parked. No items reported missing.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "SUMMIT BODY & PAINT\nGrand Rapids, MI - Shop ID SH18\nESTIMATE OF RECORD\nEstimate no.: E22079 Date: August 08, 2026\nCustomer: Dana B. Mbeki Insurer / claim: Halvorne Mutual / CLM-0102\nVehicle: 2024 Nissan Altima VIN: 1N4BRE3Y9RF315858\nSummary\nParts $225.72\nBody 1.2 hrs @ $63.50/hr $76.20\nPaint 0.0 hrs @ $64.50/hr $0.00\nMaterials 0.0 hrs @ $41.00/hr $0.00\nSublet/misc $12.50\nTax (6.00% on parts and materials) $13.54\nTOTAL DUE $327.96\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Front door glass RH MS-SGR-556 1 $225.72 1.2 -\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

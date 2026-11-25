@@ -1,0 +1,14 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0084 Date reported: 08/21/2026\nPolicy number: HM-IN-501229 Named insured: Aisha F. Sutton\nVehicle: 2024 Toyota Camry VIN: 4T1V7V8NXRD542222\nDriver at time of loss: Marcus Sutton Date of loss: 08/17/2026\nTime of loss: 7:45 AM Location: Mill St, Evansville, IN\nType of loss: Glass Other vehicle involved: No\nPolice report filed: No Damage (claimant): windshield cracked\nDescription of loss (in claimant's words)\nWindshield cracked from a stone kicked up on the highway. Crack spread overnight in the cold. I need the car for work so I would\nlike this handled quickly. I already got an estimate from the body shop.\nDocuments submitted with this notice\nrepair estimate\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "PRECISION BODY & PAINT\nKokomo, IN - Shop ID SH11\nPreliminary Estimate\nEstimate no.: E24392 Date: August 23, 2026\nCustomer: Aisha F. Sutton Insurer / claim: Halvorne Mutual / CLM-0084\nVehicle: 2024 Toyota Camry VIN: 4T1V7V8NXRD542222\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R MS-WSH-451 Windshield glass 1 $470.08 2.2 -\nParts total $470.08\nSheet metal labor 2.2 hrs @ $54.50/hr $119.90\nRefinish labor 0.0 hrs @ $58.00/hr $0.00\nPaint supplies 0.0 hrs @ $35.50/hr $0.00\nShop supplies $12.50\nSales tax (7.00% on parts and materials) $32.91\nESTIMATE TOTAL $635.39\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

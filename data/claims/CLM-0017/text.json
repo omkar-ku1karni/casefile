@@ -1,0 +1,14 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0017 Date reported: 04/25/2026\nPolicy number: HM-MI-147172 Named insured: Caleb F. Pruitt\nVehicle: 2017 Ford Escape VIN: 1FM3MM0T1HH708525\nDriver at time of loss: Trevor T. Pruitt Date of loss: 04/24/2026\nTime of loss: 5:40 PM Location: Washington Blvd, Ann Arbor, MI\nType of loss: Weather Other vehicle involved: No\nPolice report filed: No Damage (claimant): roof\nDescription of loss (in claimant's words)\nBig hail storm came through Ann Arbor while my car was parked outside. Hood and roof are covered in dents. I alreday got an\nestimate from the body shop.\nDocuments submitted with this notice\nrepair estimate\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "IRONSIDE AUTO BODY\nFlint, MI - Shop ID SH06\nESTIMATE OF RECORD\nEstimate no.: E85942 Date: April 25, 2026\nCustomer: Caleb F. Pruitt Insurer / claim: Halvorne Mutual / CLM-0017\nVehicle: 2017 Ford Escape VIN: 1FM3MM0T1HH708525\nSummary\nParts $1,854.65\nBody 18.4 hrs @ $63.00/hr $1,159.20\nPaint 7.6 hrs @ $64.00/hr $486.40\nMaterials 7.6 hrs @ $41.00/hr $311.60\nSublet/misc $4.50\nTax (6.00% on parts and materials) $129.98\nTOTAL DUE $3,946.33\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Hood panel SU-HOD-479 1 $694.07 1.8 3.7\n2 Replace Roof panel SU-RFP-298 1 $1,160.58 16.6 3.9\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

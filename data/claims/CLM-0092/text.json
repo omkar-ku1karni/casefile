@@ -1,0 +1,14 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0092 Date reported: 07/15/2026\nPolicy number: HM-OH-718523 Named insured: Victor W. Nguyen\nVehicle: 2021 Honda Accord VIN: 1HGEFDWB6MF486974\nDriver at time of loss: Sofia B. Nguyen Date of loss: 07/15/2026\nTime of loss: 10:15 AM Location: Main St, Zanesville, OH\nType of loss: Theft Other vehicle involved: No\nPolice report filed: No Damage (claimant): exhaust / catalytic converter\nDescription of loss (in claimant's words)\nCatalyitc converter stolen from my vehicle overnight while parked at my apartment on Main St.\nDocuments submitted with this notice\nrepair estimate\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "MAPLEWOOD COLLISION CENTER\nToledo, OH - Shop ID SH07\nESTIMATE OF RECORD\nEstimate no.: E21403 Date: July 17, 2026\nCustomer: Victor W. Nguyen Insurer / claim: Halvorne Mutual / CLM-0092\nVehicle: 2021 Honda Accord VIN: 1HGEFDWB6MF486974\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Catalytic converter MS-CAT-400 1 $1,408.35 2.0 -\nParts $1,408.35\nBody labor 2.0 hrs @ $58.50/hr $117.00\nPaint labor 0.0 hrs @ $61.00/hr $0.00\nPaint materials 0.0 hrs @ $38.50/hr $0.00\nMisc / hazmat $0.00\nTax (5.75% on parts and materials) $80.98\nGRAND TOTAL $1,606.33\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

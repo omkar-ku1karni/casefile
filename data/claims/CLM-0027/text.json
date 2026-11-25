@@ -1,0 +1,14 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0027 Date reported: 05/31/2026\nPolicy number: HM-OH-225544 Named insured: Gavin R. Iverson\nVehicle: 2022 Toyota RAV4 VIN: 2T3L3LGK9NG363470\nDriver at time of loss: Gavin Iverson Date of loss: 05/27/2026\nTime of loss: 5:20 PM Location: Elm St, Dayton, OH\nType of loss: Collision Other vehicle involved: No\nPolice report filed: No Damage (claimant): front end\nDescription of loss (in claimant's words)\nMy car went off Elm St in Dayton and struck a utility pole. It was dark out. All the damage is in the front - bumper is pushed in and\na light is broken.\nDocuments submitted with this notice\nrepair estimate\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "MAPLEWOOD COLLISION CENTER\nToledo, OH - Shop ID SH07\nESTIMATE OF RECORD\nEstimate no.: E56885 Date: June 02, 2026\nCustomer: Gavin R. Iverson Insurer / claim: Halvorne Mutual / CLM-0027\nVehicle: 2022 Toyota RAV4 VIN: 2T3L3LGK9NG363410\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Front bumper cover SU-FBC-532 1 $535.02 2.9 3.0\n2 Repl Grille assembly SU-GRL-668 1 $283.61 0.7 -\n3 Repl Front fender LH SU-FDL-815 1 $371.85 2.4 2.7\n4 Repl Headlamp assembly LH SU-HLL-544 1 $507.85 1.0 -\nParts $1,698.33\nBody labor 7.0 hrs @ $58.50/hr $409.50\nPaint labor 5.7 hrs @ $61.00/hr $347.70\nPaint materials 5.7 hrs @ $38.50/hr $219.45\nMisc / hazmat $12.50\nTax (5.75% on parts and materials) $110.27\nGRAND TOTAL $2,797.75\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

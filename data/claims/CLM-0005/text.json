@@ -1,0 +1,14 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0005 Date reported: 06/12/2026\nPolicy number: HM-OH-856642 Named insured: Tomas F. Bennett\nVehicle: 2020 Ford F-150 VIN: 1FT1TLAZ1LG935420\nDriver at time of loss: Bethany A. Bennett Date of loss: 06/11/2026\nTime of loss: 7:50 AM Location: Oak Ave, Dayton, OH\nType of loss: Weather Other vehicle involved: No\nPolice report filed: No Damage (claimant): roof\nDescription of loss (in claimant's words)\nA branch fell on my parked car on Oak Ave during high winds. Damage to the roof.\nDocuments submitted with this notice\nrepair estimate\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "HARBOR COLLISION\nDayton, OH - Shop ID SH04\nESTIMATE OF RECORD\nEstimate no.: E55316 Date: June 17, 2026\nCustomer: Tomas F. Bennett Insurer / claim: Halvorne Mutual / CLM-0005\nVehicle: 2020 Ford F-150 VIN: 1FT1TLAZ1LG935420\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Roof panel TR-RFP-568 1 $1,307.40 16.1 4.5\n2 Repl Windshield glass TR-WSH-126 1 $628.83 2.8 -\nParts $1,936.23\nBody labor 18.9 hrs @ $59.50/hr $1,124.55\nPaint labor 4.5 hrs @ $60.00/hr $270.00\nPaint materials 4.5 hrs @ $37.50/hr $168.75\nMisc / hazmat $7.50\nTax (5.75% on parts and materials) $121.04\nGRAND TOTAL $3,628.07\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0104 Date reported: 08/07/2026\nPolicy number: HM-MI-892395 Named insured: Isaac E. Lindqvist\nVehicle: 2021 Toyota Corolla VIN: 2T1TV5EG4ME438719\nDriver at time of loss: Isaac Lindqvist Date of loss: 08/05/2026\nTime of loss: 3:45 PM Location: Broad St, Ann Arbor, MI\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - TR-26-71974 Damage (claimant): passenger side\nDescription of loss (in claimant's words)\nI was going through the intersection of Broad St and Riverside Dr on a green light and a car ran the stop sign and hit my\npassenger side. Other driver was Tara D. Iverson. Police report was filed. I need the car for work so I would like this handled\nquickly. I have been a Halvorne customer for years and never had a claim like this.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "ANN ARBOR POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: TR-26-71974 Date of incident: 05 Aug 2026\nTime: 15:45 Location: Broad St / Riverside Dr, Ann Arbor, MI\nReporting officer: Ofc. E. Kowalski #962 Report date: 05 Aug 2026\nUnit 1\nDriver / owner: LINDQVIST, ISAAC E Vehicle: 2021 TOYOTA COROLLA\nVIN: 2T1TV5EG4ME438619 Insurance: Halvorne Mutual\nUnit 2\nDriver: IVERSON, TARA D Insurance: other carrier\nNarrative\nV2 (IVERSON, TARA D) failed to yield at the stop sign on Riverside Dr and struck V1 (LINDQVIST, ISAAC E) on the passenger\nside. V2 cited for failure to yield. V1 passenger side damage.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "PRAIRIE AUTOWORKS\nKalamazoo, MI - Shop ID SH03\nESTIMATE OF RECORD\nEstimate no.: E92698 Date: August 08, 2026\nCustomer: Isaac E. Lindqvist Insurer / claim: Halvorne Mutual / CLM-0104\nVehicle: 2021 Toyota Corolla VIN: 2T1TV5EG4ME438619\nSummary\nParts $1,288.88\nBody 6.9 hrs @ $61.00/hr $420.90\nPaint 5.8 hrs @ $66.00/hr $382.80\nMaterials 5.8 hrs @ $40.50/hr $234.90\nSublet/misc $12.50\nTax (6.00% on parts and materials) $91.43\nTOTAL DUE $2,431.41\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Outside mirror RH CP-MRR-560 1 $260.74 0.7 0.5\n2 Replace Front fender RH CP-FDR-287 1 $276.12 2.2 2.5\n3 Replace Front door shell RH CP-DFR-811 1 $752.02 4.0 2.8\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

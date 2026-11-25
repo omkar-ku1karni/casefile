@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0094 Date reported: 07/19/2026\nPolicy number: HM-OH-500461 Named insured: Priya R. Sutton\nVehicle: 2019 Ram 1500 VIN: 1C69U24R2KF802272\nDriver at time of loss: Priya R. Sutton Date of loss: 07/19/2026\nTime of loss: 4:00 PM Location: Mill St, Akron, OH\nType of loss: Collision Other vehicle involved: No\nPolice report filed: Yes - IR-26-47261 Damage (claimant): front end\nDescription of loss (in claimant's words)\nI was driving south on Mill St near Route 23 in Akron. Roads were dark and when I braked for a turn the car slid and I went into a\nconcrete barrier. Front end hit it pretty hard. Nobody was hurt.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "AKRON POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: IR-26-47261 Date of incident: 19 Jul 2026\nTime: 16:00 Location: Mill St / Route 23, Akron, OH\nReporting officer: Ofc. I. Ostrowski #456 Report date: 19 Jul 2026\nUnit 1\nDriver / owner: SUTTON, PRIYA R Vehicle: 2019 RAM 1500\nVIN: 1C69U24R2KF802272 Insurance: Halvorne Mutual\nNarrative\nV1 (SUTTON, PRIYA R) was traveling on Mill St when the driver lost control on dark pavement and struck a concrete barrier.\nSingle vehicle. No injuries. V1 sustained front-end damage.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "NORTHGATE COLLISION\nColumbus, OH - Shop ID SH16\nESTIMATE OF RECORD\nEstimate no.: E19997 Date: July 22, 2026\nCustomer: Priya R. Sutton Insurer / claim: Halvorne Mutual / CLM-0094\nVehicle: 2019 Ram 1500 VIN: 1C69U24R2KF802272\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Front fender LH TR-FDL-326 1 $419.37 2.6 2.9\n2 Repl Headlamp assembly LH TR-HLL-275 1 $550.16 0.9 -\n3 Repl Grille assembly TR-GRL-586 1 $310.88 0.7 -\nParts $1,280.41\nBody labor 4.2 hrs @ $57.50/hr $241.50\nPaint labor 2.9 hrs @ $61.00/hr $176.90\nPaint materials 2.9 hrs @ $38.00/hr $110.20\nMisc / hazmat $7.50\nTax (5.75% on parts and materials) $79.96\nGRAND TOTAL $1,896.47\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

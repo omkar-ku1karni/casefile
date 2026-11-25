@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0058 Date reported: 02/09/2026\nPolicy number: HM-OH-897309 Named insured: Hector M. Castillo\nVehicle: 2025 Ford Escape VIN: 1FMYFRB5XSE015748\nDriver at time of loss: Hannah P. Castillo Date of loss: 02/07/2026\nTime of loss: 10:50 PM Location: Elm St, Lima, OH\nType of loss: Animal Other vehicle involved: No\nPolice report filed: No Damage (claimant): front bumper, grille, headlight\nDescription of loss (in claimant's words)\nDriving on Elm St outside Lima around dusk a deer jumped out and I hit it head on. Front bumper, grille and lights are damaged. I\nhave pictures on my phone if you need them.\nDocuments submitted with this notice\nrepair estimates\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "HARBOR COLLISION\nDayton, OH - Shop ID SH04\nESTIMATE OF RECORD\nEstimate no.: E88158 Date: February 09, 2026\nCustomer: Hector M. Castillo Insurer / claim: Halvorne Mutual / CLM-0058\nVehicle: 2025 Ford Escape VIN: 1FMYFRB5XSE015748\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Front bumper cover SU-FBC-532 1 $529.50 3.0 2.9\nParts $529.50\nBody labor 3.0 hrs @ $59.50/hr $178.50\nPaint labor 2.9 hrs @ $60.00/hr $174.00\nPaint materials 2.9 hrs @ $37.50/hr $108.75\nMisc / hazmat $4.50\nTax (5.75% on parts and materials) $36.70\nGRAND TOTAL $1,031.95\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ },
+ "estimate_supplement": {
+  "type": "estimate",
+  "pages": [
+   "HARBOR COLLISION\nDayton, OH - Shop ID SH04\nSUPPLEMENT 1\nEstimate no.: E88158-S1 Date: February 17, 2026\nCustomer: Hector M. Castillo Insurer / claim: Halvorne Mutual / CLM-0058\nVehicle: 2025 Ford Escape VIN: 1FMYFRB5XSE015748\nSupplements: E88158 Reason: hidden damage found at teardown\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Radiator support SU-RSP-810 1 $441.46 6.0 1.8\n2 Repl A/C condenser SU-CND-156 1 $421.77 2.3 -\nParts $863.23\nBody labor 8.3 hrs @ $59.50/hr $493.85\nPaint labor 1.8 hrs @ $60.00/hr $108.00\nPaint materials 1.8 hrs @ $37.50/hr $67.50\nMisc / hazmat $0.00\nTax (5.75% on parts and materials) $53.52\nGRAND TOTAL $1,586.10\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

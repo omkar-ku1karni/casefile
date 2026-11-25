@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0116 Date reported: 02/08/2026\nPolicy number: HM-MI-722700 Named insured: Grace K. Larkin\nVehicle: 2023 Toyota Corolla VIN: 2T1D89SZ6PE918605\nDriver at time of loss: Grace K. Larkin Date of loss: 02/08/2026\nTime of loss: 6:20 AM Location: State Route 9, Lansing, MI\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - IR-26-16330 Damage (claimant): rear bumper, trunk, tail light\nDescription of loss (in claimant's words)\nSitting in traffic on State Route 9, got rear ended by another car going maybe 25. Rear bumper and trunk are smashed, tail light\nbroken. Other driver (Wesley E. Novak) admitted fault to the officer. My kids were not in the car thank goodness.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "LANSING POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: IR-26-16330 Date of incident: 08 Feb 2026\nTime: 06:20 Location: State Route 9 / Mill St, Lansing, MI\nReporting officer: Ofc. B. Okafor #231 Report date: 08 Feb 2026\nUnit 1\nDriver / owner: LARKIN, GRACE K Vehicle: 2023 TOYOTA COROLLA\nVIN: 2T1D89SZ6PE918605 Insurance: Halvorne Mutual\nUnit 2\nDriver: NOVAK, WESLEY E Insurance: other carrier\nNarrative\nV1 (LARKIN, GRACE K) was stopped for a red signal at State Route 9 and Mill St. V2 (NOVAK, WESLEY E) failed to stop and\nstruck V1 in the rear. No injuries reported. V2 cited for following too closely. V1 rear damage observed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "MAPLEWOOD BODY & PAINT\nSaginaw, MI - Shop ID SH21\nESTIMATE OF RECORD\nEstimate no.: E97975 Date: February 09, 2026\nCustomer: Grace K. Larkin Insurer / claim: Halvorne Mutual / CLM-0116\nVehicle: 2023 Toyota Corolla VIN: 2T1D89SZ6PE918605\nSummary\nParts $634.02\nBody 2.6 hrs @ $63.50/hr $165.10\nPaint 2.8 hrs @ $66.00/hr $184.80\nMaterials 2.8 hrs @ $39.50/hr $110.60\nSublet/misc $12.50\nTax (6.00% on parts and materials) $44.68\nTOTAL DUE $1,151.70\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Rear bumper cover CP-RBC-401 1 $378.95 2.2 2.8\n2 Replace Tail lamp assembly LH CP-TLL-805 1 $255.07 0.4 -\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

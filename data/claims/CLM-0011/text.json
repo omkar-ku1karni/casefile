@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0011 Date reported: 07/26/2026\nPolicy number: HM-IN-690259 Named insured: Wesley S. Sutton\nVehicle: 2021 Toyota Corolla VIN: 2T13D4B48MB486092\nDriver at time of loss: Wesley Sutton Date of loss: 07/22/2026\nTime of loss: 6:00 PM Location: Oak Ave, Bloomington, IN\nType of loss: Collision Other vehicle involved: No\nPolice report filed: No Damage (claimant): front bumper, grille, headlight\nDescription of loss (in claimant's words)\nI was drivnig north on Oak Ave near State Route 9 in Bloomington. Roads were foggy and when I braked for a turn the car slid and\nI went into a tree. Front end hit it prtety hard. Nobody was hurt. I have been a Halvorne customer for years and never had a claim\nlike this. I need the car for work so I would like this handled quickly.\nDocuments submitted with this notice\nrepair estimates\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "CORNERSTONE AUTOWORKS\nFort Wayne, IN - Shop ID SH17\nPreliminary Estimate\nEstimate no.: E66824 Date: July 23, 2026\nCustomer: Wesley S. Sutton Insurer / claim: Halvorne Mutual / CLM-0011\nVehicle: 2021 Toyota Corolla VIN: 2T13D4B48MB486092\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R CP-FBC-959 Front bumper cover 1 $391.95 2.5 2.4\nParts total $391.95\nSheet metal labor 2.5 hrs @ $53.50/hr $133.75\nRefinish labor 2.4 hrs @ $56.50/hr $135.60\nPaint supplies 2.4 hrs @ $35.50/hr $85.20\nShop supplies $7.50\nSales tax (7.00% on parts and materials) $33.40\nESTIMATE TOTAL $787.40\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ },
+ "estimate_supplement": {
+  "type": "estimate",
+  "pages": [
+   "CORNERSTONE AUTOWORKS\nFort Wayne, IN - Shop ID SH17\nSUPPLEMENT 1\nEstimate no.: E66824-S1 Date: July 28, 2026\nCustomer: Wesley S. Sutton Insurer / claim: Halvorne Mutual / CLM-0011\nVehicle: 2021 Toyota Corolla VIN: 2T13D4B48MB486092\nSupplements: E66824 Reason: hidden damage found at teardown\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R CP-RSP-518 Radiator support 1 $337.64 5.6 1.6\n2 R&R CP-CND-972 A/C condenser 1 $311.20 1.9 -\nParts total $648.84\nSheet metal labor 7.5 hrs @ $53.50/hr $401.25\nRefinish labor 1.6 hrs @ $56.50/hr $90.40\nPaint supplies 1.6 hrs @ $35.50/hr $56.80\nShop supplies $0.00\nSales tax (7.00% on parts and materials) $49.39\nESTIMATE TOTAL $1,246.68\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

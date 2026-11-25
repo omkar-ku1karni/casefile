@@ -1,0 +1,26 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0114 Date reported: 02/16/2026\nPolicy number: HM-IN-106054 Named insured: Victor P. Okafor\nVehicle: 2022 Nissan Altima VIN: 1N4DUCKN9NG665079\nDriver at time of loss: Victor P. Okafor Date of loss: 02/15/2026\nTime of loss: 11:05 AM Location: Maple Rd, Muncie, IN\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - CR-26-52421 Damage (claimant): hood and front bumper\nDescription of loss (in claimant's words)\nI rear-ended a vehicle that braked hard for a yellow light at Maple Rd/Lincoln Hwy. My hood and bumper are damaged. Other\nparty: Naomi G. Holloway.\nDocuments submitted with this notice\npolice report, repair estimates\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "MUNCIE POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: CR-26-52421 Date of incident: 2026-02-15\nTime: 11:05 Location: Maple Rd / Lincoln Hwy, Muncie, IN\nReporting officer: Ofc. I. Larkin #532 Report date: 2026-02-15\nUnit 1\nDriver / owner: OKAFOR, VICTOR P Vehicle: 2022 NISSAN ALTIMA\nVIN: 1N4DUCKN9NG665079 Insurance: Halvorne Mutual\nUnit 2\nDriver: HOLLOWAY, NAOMI G Insurance: other carrier\nNarrative\nV1 (OKAFOR, VICTOR P) struck the rear of V2 (HOLLOWAY, NAOMI G) which was slowing for traffic on Maple Rd near Lincoln\nHwy. V1 front-end damage. V1 driver cited for assured clear distance.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "CORNERSTONE AUTOWORKS\nFort Wayne, IN - Shop ID SH17\nPreliminary Estimate\nEstimate no.: E45175 Date: February 18, 2026\nCustomer: Victor P. Okafor Insurer / claim: Halvorne Mutual / CLM-0114\nVehicle: 2022 Nissan Altima VIN: 1N4DUCKN9NG665079\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R MS-GRL-903 Grille assembly 1 $249.03 0.6 -\n2 R&R MS-FBC-892 Front bumper cover 1 $465.52 2.6 2.7\n3 R&R MS-FDL-405 Front fender LH 1 $324.74 2.3 2.4\n4 R&R MS-HLL-930 Headlamp assembly LH1 $461.30 0.7 -\nParts total $1,500.59\nSheet metal labor 6.2 hrs @ $53.50/hr $331.70\nRefinish labor 5.1 hrs @ $56.50/hr $288.15\nPaint supplies 5.1 hrs @ $35.50/hr $181.05\nShop supplies $4.50\nSales tax (7.00% on parts and materials) $117.71\nESTIMATE TOTAL $2,423.70\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ },
+ "estimate_supplement": {
+  "type": "estimate",
+  "pages": [
+   "CORNERSTONE AUTOWORKS\nFort Wayne, IN - Shop ID SH17\nSUPPLEMENT 1\nEstimate no.: E45175-S1 Date: February 26, 2026\nCustomer: Victor P. Okafor Insurer / claim: Halvorne Mutual / CLM-0114\nVehicle: 2022 Nissan Altima VIN: 1N4DUCKN9NG665079\nSupplements: E45175 Reason: hidden damage found at teardown\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R MS-RSP-359 Radiator support 1 $417.88 5.9 1.4\n2 R&R MS-CND-764 A/C condenser 1 $363.36 2.1 -\nParts total $781.24\nSheet metal labor 8.0 hrs @ $53.50/hr $428.00\nRefinish labor 1.4 hrs @ $56.50/hr $79.10\nPaint supplies 1.4 hrs @ $35.50/hr $49.70\nShop supplies $0.00\nSales tax (7.00% on parts and materials) $58.17\nESTIMATE TOTAL $1,396.21\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

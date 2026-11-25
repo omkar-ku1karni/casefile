@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0106 Date reported: 07/25/2026\nPolicy number: HM-MI-893625 Named insured: Mateo L. Kowalski\nVehicle: 2024 Chevrolet Silverado 1500 VIN: 1GC2ERDK9RB942483\nDriver at time of loss: Mateo L. Kowalski Date of loss: 07/24/2026\nTime of loss: 2:05 PM Location: Washington Blvd, Ann Arbor, MI\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - IR-26-63759 Damage (claimant): front end\nDescription of loss (in claimant's words)\nTraffic stopped suddenly on Washington Blvd near Washington Blvd and I could not stop in time and hit the car in front of me.\nFront end damage. The other driver was Sofia H. Novak, police came.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "ANN ARBOR POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: IR-26-63759 Date of incident: 24 Jul 2026\nTime: 14:05 Location: Washington Blvd / Washington Blvd, Ann Arbor, MI\nReporting officer: Ofc. K. Ruiz #629 Report date: 24 Jul 2026\nUnit 1\nDriver / owner: KOWALSKI, MATEO L Vehicle: 2024 CHEVROLET SILVERADO 1500\nVIN: 1GC2ERDK9RB942483 Insurance: Halvorne Mutual\nUnit 2\nDriver: NOVAK, SOFIA H Insurance: other carrier\nNarrative\nV1 (KOWALSKI, MATEO L) struck the rear of V2 (NOVAK, SOFIA H) which was slowing for traffic on Washington Blvd near\nWashington Blvd. V1 front-end damage. V1 driver cited for assured clear distance.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "HARBOR BODY & PAINT\nFlint, MI - Shop ID SH12\nESTIMATE OF RECORD\nEstimate no.: E73009 Date: July 27, 2026\nCustomer: Mateo L. Kowalski Insurer / claim: Halvorne Mutual / CLM-0106\nVehicle: 2024 Chevrolet Silverado 1500 VIN: 1GC2ERDK9RB942483\nSummary\nParts $1,872.03\nBody 11.9 hrs @ $63.00/hr $749.70\nPaint 5.9 hrs @ $65.00/hr $383.50\nMaterials 5.9 hrs @ $40.50/hr $238.95\nSublet/misc $12.50\nTax (6.00% on parts and materials) $126.66\nTOTAL DUE $3,383.34\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Headlamp assembly LH TR-HLL-275 1 $516.32 1.0 -\n2 Replace Grille assembly TR-GRL-586 1 $298.50 1.3 -\n3 Replace Front fender LH TR-FDL-326 1 $416.99 4.5 2.8\n4 Replace Front bumper cover TR-FBC-470 1 $640.22 5.1 3.1\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0050 Date reported: 10/28/2026\nPolicy number: HM-IN-901478 Named insured: Bethany S. Lindqvist\nVehicle: 2017 Ford F-150 VIN: 1FT7VWH04HA129386\nDriver at time of loss: Gavin Lindqvist Date of loss: 10/26/2026\nTime of loss: 12:50 AM Location: Oak Ave, Bloomington, IN\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - CR-26-37690 Damage (claimant): front end\nDescription of loss (in claimant's words)\nTraffic stopped suddenly on Oak Ave near Mraket St and I could not stop in time and hit the car in front of me. Front end damage.\nThe other driver was Priya E. Ostrowski, police came.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "BLOOMINGTON POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: CR-26-37690 Date of incident: 25 Oct 2026\nTime: 23:48 Location: Oak Ave / Market St, Bloomington, IN\nReporting officer: Ofc. H. Dempsey #807 Report date: 25 Oct 2026\nUnit 1\nDriver / owner: LINDQVIST, GAVIN M Vehicle: 2017 FORD F-150\nVIN: 1FT7VWH04HA129386 Insurance: Halvorne Mutual\nUnit 2\nDriver: OSTROWSKI, PRIYA E Insurance: other carrier\nNarrative\nV1 (LINDQVIST, GAVIN M) struck the rear of V2 (OSTROWSKI, PRIYA E) which was slowing for traffic on Oak Ave near Market\nSt. V1 front-end damage. V1 driver cited for assured clear distance.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "BLUEWATER COLLISION\nKokomo, IN - Shop ID SH23\nPreliminary Estimate\nEstimate no.: E27468 Date: October 27, 2026\nCustomer: Bethany S. Lindqvist Insurer / claim: Halvorne Mutual / CLM-0050\nVehicle: 2017 Ford F-150 VIN: 1FT7VWH04HA129386\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R TR-FBC-470 Front bumper cover 1 $637.00 2.8 3.1\n2 R&R TR-FDL-326 Front fender LH 1 $405.90 2.5 3.2\n3 R&R TR-HLL-275 Headlamp assembly LH1 $564.94 1.1 -\nParts total $1,607.84\nSheet metal labor 6.4 hrs @ $54.50/hr $348.80\nRefinish labor 6.3 hrs @ $59.00/hr $371.70\nPaint supplies 6.3 hrs @ $36.00/hr $226.80\nShop supplies $4.50\nSales tax (7.00% on parts and materials) $128.42\nESTIMATE TOTAL $2,688.06\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

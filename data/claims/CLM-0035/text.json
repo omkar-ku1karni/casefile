@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0035 Date reported: 07/29/2026\nPolicy number: HM-OH-940178 Named insured: Trevor J. Okafor\nVehicle: 2024 Ford F-150 VIN: 1FT4PYWYXRA693328\nDriver at time of loss: Trevor J. Okafor Date of loss: 07/28/2026\nTime of loss: 6:10 AM Location: Maple Rd, Mansfield, OH\nType of loss: Collision Other vehicle involved: No\nPolice report filed: Yes - IR-26-14299 Damage (claimant): rear bumper and tail lights\nDescription of loss (in claimant's words)\nI backed into a post at the hopsital garage and broke a tail light. Minor. My kids were not in the car thank goodness.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "MANSFIELD POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: IR-26-14299 Date of incident: 2026-07-28\nTime: 06:10 Location: Maple Rd / Maple Rd, Mansfield, OH\nReporting officer: Ofc. A. Szabo #682 Report date: 2026-07-28\nUnit 1\nDriver / owner: OKAFOR, TREVOR J Vehicle: 2024 FORD F-150\nVIN: 1FT4PYWYXRA693328 Insurance: Halvorne Mutual\nNarrative\nMinor property damage, V1 (OKAFOR, TREVOR J) struck a fixed object while parking. No injuries.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "KEYSTONE AUTO BODY\nLima, OH - Shop ID SH25\nESTIMATE OF RECORD\nEstimate no.: E86496 Date: July 31, 2026\nCustomer: Trevor J. Okafor Insurer / claim: Halvorne Mutual / CLM-0035\nVehicle: 2024 Ford F-150 VIN: 1FT4PYWYXRA693328\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Tail lamp assembly LH TR-TLL-547 1 $323.75 0.5 -\nParts $323.75\nBody labor 0.5 hrs @ $57.00/hr $28.50\nPaint labor 0.0 hrs @ $61.00/hr $0.00\nPaint materials 0.0 hrs @ $38.00/hr $0.00\nMisc / hazmat $0.00\nTax (5.75% on parts and materials) $18.62\nGRAND TOTAL $370.87\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

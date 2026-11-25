@@ -1,0 +1,14 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0089 Date reported: 02/05/2026\nPolicy number: HM-OH-817476 Named insured: Tomas S. Iverson\nVehicle: 2023 Ford Escape VIN: 1FM11UTA5PB160749\nDriver at time of loss: Molly A. Iverson Date of loss: 02/05/2026\nTime of loss: 8:20 AM Location: Market St, Akron, OH\nType of loss: Collision Other vehicle involved: No\nPolice report filed: Yes - TR-26-27084 Damage (claimant): front bumper, grille, headlight\nDescription of loss (in claimant's words)\nI was driving north on Market St near Route 23 in Akron. Roads were icy and when I braked for a turn the car slid and I went into a\ntree. Front end hit it pretty hard. Nobody was hurt. Honestly this whole thing has been really stressful. I need the car for work so I\nwould like this handled quickly.\nDocuments submitted with this notice\npolice report\nClaimant states the shop estimate will be sent later.\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "AKRON POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: TR-26-27084 Date of incident: 2026-02-05\nTime: 08:20 Location: Market St / Route 23, Akron, OH\nReporting officer: Ofc. M. Novak #654 Report date: 2026-02-05\nUnit 1\nDriver / owner: IVERSON, MOLLY A Vehicle: 2023 FORD ESCAPE\nVIN: 1FM11UTA5PB160749 Insurance: Halvorne Mutual\nNarrative\nV1 (IVERSON, MOLLY A) was traveling on Market St when the driver lost control on icy pavement and struck a tree. Single\nvehicle. No injuries. V1 sustained front-end damage.\n Page 1"
+  ]
+ }
+}

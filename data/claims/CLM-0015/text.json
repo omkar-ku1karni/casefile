@@ -1,0 +1,14 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0015 Date reported: 11/08/2026\nPolicy number: HM-OH-847483 Named insured: Elena G. Lindqvist\nVehicle: 2019 Toyota Corolla VIN: 2T1SJERL7KF386541\nDriver at time of loss: Caleb K. Lindqvist Date of loss: 11/06/2026\nTime of loss: 10:20 AM Location: Maple Rd, Mansfield, OH\nType of loss: Weather Other vehicle involved: No\nPolice report filed: No Damage (claimant): roof and hood dents\nDescription of loss (in claimant's words)\nDuring the wind storm a large tree limb came down on my car in the driveway. Roof is crushed in and the windshield is cracked.\nHonestly this whole thing has been really stressful.\nDocuments submitted with this notice\nrepair estimate\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "HARBOR COLLISION\nDayton, OH - Shop ID SH04\nESTIMATE OF RECORD\nEstimate no.: E68162 Date: November 09, 2026\nCustomer: Elena G. Lindqvist Insurer / claim: Halvorne Mutual / CLM-0015\nVehicle: 2019 Toyota Corolla VIN: 2T1SJERL7KF386541\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Roof panel CP-RFP-559 1 $844.41 13.8 3.4\n2 Repl Hood panel CP-HOD-726 1 $562.23 1.5 3.0\n3 Repl Windshield glass CP-WSH-382 1 $396.39 2.1 -\nParts $1,803.03\nBody labor 17.4 hrs @ $59.50/hr $1,035.30\nPaint labor 6.4 hrs @ $60.00/hr $384.00\nPaint materials 6.4 hrs @ $37.50/hr $240.00\nMisc / hazmat $4.50\nTax (5.75% on parts and materials) $117.47\nGRAND TOTAL $3,584.30\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0018 Date reported: 08/01/2026\nPolicy number: HM-OH-922381 Named insured: Leah A. Lindqvist\nVehicle: 2025 Chevrolet Equinox VIN: 2GNNGE92XSE189539\nDriver at time of loss: Leah Lindqvist Date of loss: 07/29/2026\nTime of loss: 9:50 PM Location: Oak Ave, Zanesville, OH\nType of loss: Animal Other vehicle involved: No\nPolice report filed: No Damage (claimant): hood and front bumper\nDescription of loss (in claimant's words)\nDriving on Oak Ave outside Zanesville around dusk a deer jumped out and I hit it head on. Front bumper, grille and lights are\ndamaged. Please call me after 5pm, I work days. I need the car for work so I would like this handled quickly.\nDocuments submitted with this notice\nrepair estimates\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "HEARTLAND AUTO BODY\nToledo, OH - Shop ID SH10\nESTIMATE OF RECORD\nEstimate no.: E98037 Date: August 04, 2026\nCustomer: Leah A. Lindqvist Insurer / claim: Halvorne Mutual / CLM-0018\nVehicle: 2025 Chevrolet Equinox VIN: 2GNNGE92XSE189539\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Front bumper cover SU-FBC-532 1 $565.47 2.9 2.9\n2 Repl Headlamp assembly LH SU-HLL-544 1 $460.89 0.9 -\n3 Repl Grille assembly SU-GRL-668 1 $267.49 0.7 -\n4 Repl Front fender LH SU-FDL-815 1 $402.52 2.2 2.7\nParts $1,696.37\nBody labor 6.7 hrs @ $60.50/hr $405.35\nPaint labor 5.6 hrs @ $62.00/hr $347.20\nPaint materials 5.6 hrs @ $37.50/hr $210.00\nMisc / hazmat $7.50\nTax (5.75% on parts and materials) $109.62\nGRAND TOTAL $2,776.04\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ },
+ "estimate_supplement": {
+  "type": "estimate",
+  "pages": [
+   "HEARTLAND AUTO BODY\nToledo, OH - Shop ID SH10\nSUPPLEMENT 1\nEstimate no.: E98037-S1 Date: August 09, 2026\nCustomer: Leah A. Lindqvist Insurer / claim: Halvorne Mutual / CLM-0018\nVehicle: 2025 Chevrolet Equinox VIN: 2GNNGE92XSE189539\nSupplements: E98037 Reason: hidden damage found at teardown\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Radiator support SU-RSP-810 1 $457.89 5.9 1.6\n2 Repl A/C condenser SU-CND-156 1 $427.16 2.3 -\nParts $885.05\nBody labor 8.2 hrs @ $60.50/hr $496.10\nPaint labor 1.6 hrs @ $62.00/hr $99.20\nPaint materials 1.6 hrs @ $37.50/hr $60.00\nMisc / hazmat $0.00\nTax (5.75% on parts and materials) $54.34\nGRAND TOTAL $1,594.69\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0028 Date reported: 03/04/2026\nPolicy number: HM-OH-144857 Named insured: Daniel J. Morales\nVehicle: 2024 Chevrolet Equinox VIN: 2GN1M169XRB679778\nDriver at time of loss: Daniel Morales Date of loss: 03/04/2026\nTime of loss: 7:05 AM Location: State Route 9, Zanesville, OH\nType of loss: Theft Other vehicle involved: No\nPolice report filed: Yes - IR-26-33140 Damage (claimant): exhaust / catalytic converter\nDescription of loss (in claimant's words)\nWent to start my car and it was extremely loud. Mechnaic says the catalytic converter was cut off. It was parked in my driveway\novernight. I already got an estimate from the body shop.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "ZANESVILLE POLICE DEPARTMENT (synthetic)\nIncident Report\nReport no.: IR-26-33140 Date of incident: 04 Mar 2026\nTime: 07:05 Location: State Route 9 / County Rd 12, Zanesville, OH\nReporting officer: Ofc. K. Morales #776 Report date: 04 Mar 2026\nUnit 1\nDriver / owner: MORALES, DANIEL J Vehicle: 2024 CHEVROLET EQUINOX\nVIN: 2GN1M169XRB679778 Insurance: Halvorne Mutual\nNarrative\nComplainant reports the catalytic converter was cut from V1 (MORALES, DANIEL J) while parked overnight at the residence. Saw\nmarks observed on exhaust.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "HARBOR COLLISION\nDayton, OH - Shop ID SH04\nESTIMATE OF RECORD\nEstimate no.: E53220 Date: March 06, 2026\nCustomer: Daniel J. Morales Insurer / claim: Halvorne Mutual / CLM-0028\nVehicle: 2024 Chevrolet Equinox VIN: 2GN1M169XRB679778\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Catalytic converter SU-CAT-930 1 $1,489.91 1.9 -\nParts $1,489.91\nBody labor 1.9 hrs @ $59.50/hr $113.05\nPaint labor 0.0 hrs @ $60.00/hr $0.00\nPaint materials 0.0 hrs @ $37.50/hr $0.00\nMisc / hazmat $7.50\nTax (5.75% on parts and materials) $85.67\nGRAND TOTAL $1,696.13\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

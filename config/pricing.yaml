@@ -1,0 +1,17 @@
+# List prices, USD per 1M tokens. These prices turn measured
+# tokens into the dollars a paid deployment would spend, so the per-claim ceiling means something.
+# Verify against the providers' pricing pages before quoting numbers (as_of below).
+as_of: 2026-11-24
+sources:
+  gemini: https://aistudio.google.com/docs/pricing
+  groq: https://groq.com/pricing
+# Gemini: aistudio.google.com/docs/pricing, read 2026-11-24 (3.6 Flash doubles on 2027-01-01 to $1.50/$7.50).
+# gpt-oss on Groq: Groq's "prompt caching and lower pricing" post.
+models:
+  gemini:gemini-3.6-flash:         {input: 0.75, output: 3.75}
+  gemini:gemini-3.5-flash-lite:    {input: 0.30, output: 2.50}
+  groq:openai/gpt-oss-20b:         {input: 0.075, output: 0.30}
+  groq:openai/gpt-oss-120b:        {input: 0.15, output: 0.60}
+  ollama:*:                        {input: 0.0, output: 0.0}
+  fake:*:                          {input: 0.10, output: 0.40}
+default: {input: 0.30, output: 2.50}   # unknown model: price it high rather than at zero

@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0088 Date reported: 04/04/2026\nPolicy number: HM-OH-889325 Named insured: Lucia H. Iverson\nVehicle: 2024 Ram 1500 VIN: 1C6RK59B0RD827986\nDriver at time of loss: Lucia H. Iverson Date of loss: 04/03/2026\nTime of loss: 9:00 AM Location: Market St, Columbus, OH\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - CR-26-84325 Damage (claimant): rear bumper, trunk, tail light\nDescription of loss (in claimant's words)\nAnother vehicle struck the back of my car while I was waiting to turn left onto Washington Blvd. Damage to the rear of my car.\nOther driver: Felix B. Ruiz. I already got an estimate from the body shop. I need the car for work so I would like this handled\nquickly.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "COLUMBUS POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: CR-26-84325 Date of incident: 03 Apr 2026\nTime: 09:00 Location: Market St / Washington Blvd, Columbus, OH\nReporting officer: Ofc. D. Hartley #729 Report date: 03 Apr 2026\nUnit 1\nDriver / owner: IVERSON, LUCIA H Vehicle: 2024 RAM 1500\nVIN: 1C6RK59B0RD827986 Insurance: Halvorne Mutual\nUnit 2\nDriver: RUIZ, FELIX B Insurance: other carrier\nNarrative\nV1 (IVERSON, LUCIA H) was stopped for a red signal at Market St and Washington Blvd. V2 (RUIZ, FELIX B) failed to stop and\nstruck V1 in the rear. No injuries reported. V2 cited for following too closely. V1 rear damage observed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "HARBOR COLLISION\nDayton, OH - Shop ID SH04\nESTIMATE OF RECORD\nEstimate no.: E94232 Date: April 05, 2026\nCustomer: Lucia H. Iverson Insurer / claim: Halvorne Mutual / CLM-0088\nVehicle: 2024 Ram 1500 VIN: 1C6RK59B0RD827986\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Rear bumper cover TR-RBC-667 1 $582.15 2.5 2.8\n2 Repl Tail lamp assembly LH TR-TLL-547 1 $331.26 0.5 -\nParts $913.41\nBody labor 3.0 hrs @ $59.50/hr $178.50\nPaint labor 2.8 hrs @ $60.00/hr $168.00\nPaint materials 2.8 hrs @ $37.50/hr $105.00\nMisc / hazmat $12.50\nTax (5.75% on parts and materials) $58.56\nGRAND TOTAL $1,435.97\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

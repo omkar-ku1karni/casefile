@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0103 Date reported: 06/08/2026\nPolicy number: HM-IN-210894 Named insured: Brandon M. Whitaker\nVehicle: 2017 Toyota RAV4 VIN: 2T3C55VL5HF039478\nDriver at time of loss: Brandon Whitaker Date of loss: 06/04/2026\nTime of loss: 9:30 AM Location: County Rd 12, Fort Wayne, IN\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - IR-26-49713 Damage (claimant): passenger side\nDescription of loss (in claimant's words)\nOther car pulled out from Oak Ave without stopping and hit the passenger side of my vehicle. Doors are dented in and the mirror is\ngone. The other driver's name is Elena K. Holloway. I already got an estimate from the body shop.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "FORT WAYNE POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: IR-26-49713 Date of incident: 04 Jun 2026\nTime: 09:30 Location: County Rd 12 / Oak Ave, Fort Wayne, IN\nReporting officer: Ofc. T. Okafor #807 Report date: 04 Jun 2026\nUnit 1\nDriver / owner: WHITAKER, BRANDON M Vehicle: 2017 TOYOTA RAV4\nVIN: 2T3C55VL5HF039478 Insurance: Halvorne Mutual\nUnit 2\nDriver: HOLLOWAY, ELENA K Insurance: other carrier\nNarrative\nV2 (HOLLOWAY, ELENA K) failed to yield at the stop sign on Oak Ave and struck V1 (WHITAKER, BRANDON M) on the\npassenger side. V2 cited for failure to yield. V1 passenger side damage.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "BLUEWATER COLLISION\nKokomo, IN - Shop ID SH23\nPreliminary Estimate\nEstimate no.: E90529 Date: June 05, 2026\nCustomer: Brandon M. Whitaker Insurer / claim: Halvorne Mutual / CLM-0103\nVehicle: 2017 Toyota RAV4 VIN: 2T3C55VL5HF039478\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R SU-DFR-913 Front door shell RH 1 $1,026.98 4.9 3.1\n2 R&R SU-MRR-475 Outside mirror RH 1 $318.74 0.9 0.6\n3 R&R SU-FDR-778 Front fender RH 1 $386.32 2.2 2.8\nParts total $1,732.04\nSheet metal labor 8.0 hrs @ $54.50/hr $436.00\nRefinish labor 6.5 hrs @ $59.00/hr $383.50\nPaint supplies 6.5 hrs @ $36.00/hr $234.00\nShop supplies $7.50\nSales tax (7.00% on parts and materials) $137.62\nESTIMATE TOTAL $2,930.66\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

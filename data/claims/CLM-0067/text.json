@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0067 Date reported: 01/30/2026\nPolicy number: HM-MI-748836 Named insured: Caleb P. Ostrowski\nVehicle: 2023 Toyota Corolla VIN: 2T1G1TYK6PC062652\nDriver at time of loss: Caleb P. Ostrowski Date of loss: 01/30/2026\nTime of loss: 7:40 AM Location: State Route 9, Lansing, MI\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - IR-26-78431 Damage (claimant): rear bumper, trunk, tail light\nDescription of loss (in claimant's words)\nI was stopped at the red light at State Route 9 and Market St in Lansing when the car behind me did not stop and hit me from\nbehind. The other driver was Lauren K. Bennett. Police came and took a report. I have been a Halvorne customer for years and\nnever had a claim like this.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "LANSING POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: IR-26-78431 Date of incident: 2026-01-30\nTime: 07:40 Location: State Route 9 / Market St, Lansing, MI\nReporting officer: Ofc. M. Whitaker #968 Report date: 2026-01-30\nUnit 1\nDriver / owner: OSTROWSKI, CALEB P Vehicle: 2023 TOYOTA COROLLA\nVIN: 2T1G1TYK6PC062652 Insurance: Halvorne Mutual\nUnit 2\nDriver: BENNETT, LAUREN K Insurance: other carrier\nNarrative\nV1 (OSTROWSKI, CALEB P) was stopped for a red signal at State Route 9 and Market St. V2 (BENNETT, LAUREN K) failed to\nstop and struck V1 in the rear. No injuries reported. V2 cited for following too closely. V1 rear damage observed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "IRONSIDE AUTO BODY\nFlint, MI - Shop ID SH06\nESTIMATE OF RECORD\nEstimate no.: E29371 Date: February 04, 2026\nCustomer: Caleb P. Ostrowski Insurer / claim: Halvorne Mutual / CLM-0067\nVehicle: 2023 Toyota Corolla VIN: 2T1G1TYK6PC062652\nSummary\nParts $945.91\nBody 5.3 hrs @ $63.00/hr $333.90\nPaint 5.1 hrs @ $64.00/hr $326.40\nMaterials 5.1 hrs @ $41.00/hr $209.10\nSublet/misc $0.00\nTax (6.00% on parts and materials) $69.30\nTOTAL DUE $1,884.61\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Front bumper cover CP-FBC-959 1 $446.26 2.4 2.4\n2 Replace Front fender LH CP-FDL-692 1 $303.01 2.3 2.7\n3 Replace Grille assembly CP-GRL-576 1 $196.64 0.6 -\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

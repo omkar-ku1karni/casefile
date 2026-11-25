@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0109 Date reported: 06/12/2026\nPolicy number: HM-MI-604525 Named insured: Victor N. Castillo\nVehicle: 2023 Ford F-150 VIN: 1FT3PNEU4PD439628\nDriver at time of loss: Victor Castillo Date of loss: 06/09/2026\nTime of loss: 11:15 AM Location: Cedar Ln, Kalamazoo, MI\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - CR-26-66150 Damage (claimant): back end\nDescription of loss (in claimant's words)\nSitting in traffic on Cedar Ln, got rear ended by another car going maybe 25. Rear bumper and trunk are smashed, tail light\nbroken. Other driver (Victor M. Kowalski) admitetd fault to the officer. I already got an estimate from the body shop. Please call me\nafter 5pm, I work days.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "KALAMAZOO POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: CR-26-66150 Date of incident: 2026-06-09\nTime: 11:15 Location: Cedar Ln / Oak Ave, Kalamazoo, MI\nReporting officer: Ofc. N. Pruitt #644 Report date: 2026-06-09\nUnit 1\nDriver / owner: CASTILLO, VICTOR N Vehicle: 2023 FORD F-150\nVIN: 1FT3PNEU4PD439618 Insurance: Halvorne Mutual\nUnit 2\nDriver: KOWALSKI, VICTOR M Insurance: other carrier\nNarrative\nV1 (CASTILLO, VICTOR N) was stopped for a red signal at Cedar Ln and Oak Ave. V2 (KOWALSKI, VICTOR M) failed to stop\nand struck V1 in the rear. No injuries reported. V2 cited for following too closely. V1 rear damage observed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "WESTFIELD BODY & PAINT\nFlint, MI - Shop ID SH15\nESTIMATE OF RECORD\nEstimate no.: E28998 Date: June 10, 2026\nCustomer: Victor N. Castillo Insurer / claim: Halvorne Mutual / CLM-0109\nVehicle: 2023 Ford F-150 VIN: 1FT3PNEU4PD439618\nSummary\nParts $3,470.19\nBody 24.4 hrs @ $62.50/hr $1,525.00\nPaint 12.9 hrs @ $65.00/hr $838.50\nMaterials 12.9 hrs @ $40.00/hr $516.00\nSublet/misc $12.50\nTax (6.00% on parts and materials) $239.17\nTOTAL DUE $6,601.36\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Rear bumper cover TR-RBC-667 1 $545.10 2.6 2.9\n2 Replace Tail lamp assembly LH TR-TLL-547 1 $332.33 0.5 -\n3 Replace Tail lamp assembly RH TR-TLR-517 1 $351.63 0.5 -\n4 Replace Trunk lid / liftgate TR-TRK-240 1 $882.02 2.2 3.4\n5 Replace Rear body panel TR-RBP-204 1 $383.37 7.2 2.8\n6 Replace Quarter panel LH TR-QPL-862 1 $975.74 11.4 3.8\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

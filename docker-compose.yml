@@ -1,0 +1,21 @@
+# Alternative to the embedded Postgres: `docker compose up`, then the UI is at http://localhost:8000
+services:
+  postgres:
+    image: postgres:16
+    environment: {POSTGRES_USER: casefile, POSTGRES_PASSWORD: casefile, POSTGRES_DB: casefile}
+    ports: ["5432:5432"]
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck: {test: ["CMD", "pg_isready", "-U", "casefile"], interval: 2s, retries: 20}
+  app:
+    build: .
+    env_file: [{path: .env, required: false}]
+    environment:
+      DATABASE_URL: postgresql://casefile:casefile@postgres:5432/casefile
+      OLLAMA_HOST: http://ollama:11434
+    ports: ["8000:8000"]
+    depends_on: {postgres: {condition: service_healthy}}
+  ollama:                      # `docker compose --profile local-llm up` for a no-key local model
+    image: ollama/ollama:latest
+    profiles: [local-llm]
+    volumes: [ollama:/root/.ollama]
+volumes: {pgdata: {}, ollama: {}}

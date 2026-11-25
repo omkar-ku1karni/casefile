@@ -1,0 +1,14 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0096 Date reported: 02/25/2026\nPolicy number: HM-OH-499340 Named insured: Owen A. Mbeki\nVehicle: 2018 Honda Civic VIN: 2HGN9ULV1JF006165\nDriver at time of loss: Owen Mbeki Date of loss: 02/23/2026\nTime of loss: 10:20 AM Location: Lincoln Hwy, Lima, OH\nType of loss: Weather Other vehicle involved: No\nPolice report filed: No Damage (claimant): roof\nDescription of loss (in claimant's words)\nBig hail storm came through Lima while my car was parked outside. Hood and roof are covered in dents. I have pictures on my\nphone if you need them. Please call me after 5pm, I work days.\nDocuments submitted with this notice\nrepair estimate\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "WESTFIELD AUTO BODY\nLima, OH - Shop ID SH01\nESTIMATE OF RECORD\nEstimate no.: E40717 Date: February 28, 2026\nCustomer: Owen A. Mbeki Insurer / claim: Halvorne Mutual / CLM-0096\nVehicle: 2018 Honda Civic VIN: 2HGN9ULV1JF006165\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Hood panel CP-HOD-726 1 $536.86 1.5 3.4\n2 Repl Roof panel CP-RFP-559 1 $830.29 14.7 3.7\nParts $1,367.15\nBody labor 16.2 hrs @ $60.50/hr $980.10\nPaint labor 7.1 hrs @ $59.00/hr $418.90\nPaint materials 7.1 hrs @ $39.00/hr $276.90\nMisc / hazmat $12.50\nTax (5.75% on parts and materials) $94.53\nGRAND TOTAL $3,150.08\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

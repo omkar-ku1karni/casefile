@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0057 Date reported: 11/03/2026\nPolicy number: HM-MI-939862 Named insured: Dana C. Whitaker\nVehicle: 2018 Toyota RAV4 VIN: 2T3MRBEV4JC214836\nDriver at time of loss: Dana C. Whitaker Date of loss: 11/02/2026\nTime of loss: 12:50 AM Location: Route 23, Kalamazoo, MI\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - CR-26-92856 Damage (claimant): hood and front bumper\nDescription of loss (in claimant's words)\nI rear-ended a vehicle that braked hard for a yellow light at Route 23/State Route 9. My hood and bumper are damaged. Other\nparty: Daniel S. Sutton.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "KALAMAZOO POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: CR-26-92856 Date of incident: 01 Nov 2026\nTime: 23:55 Location: Route 23 / State Route 9, Kalamazoo, MI\nReporting officer: Ofc. S. Ostrowski #678 Report date: 01 Nov 2026\nUnit 1\nDriver / owner: WHITAKER, DANA C Vehicle: 2018 TOYOTA RAV4\nVIN: 2T3MRBEV4JC214836 Insurance: Halvorne Mutual\nUnit 2\nDriver: SUTTON, DANIEL S Insurance: other carrier\nNarrative\nV1 (WHITAKER, DANA C) struck the rear of V2 (SUTTON, DANIEL S) which was slowing for traffic on Route 23 near State Route\n9. V1 front-end damage. V1 driver cited for assured clear distance.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "SUMMIT AUTOWORKS\nGrand Rapids, MI - Shop ID SH24\nESTIMATE OF RECORD\nEstimate no.: E64170 Date: November 06, 2026\nCustomer: Dana C. Whitaker Insurer / claim: Halvorne Mutual / CLM-0057\nVehicle: 2018 Toyota RAV4 VIN: 2T3MRBEV4JC214836\nSummary\nParts $1,171.21\nBody 5.7 hrs @ $61.50/hr $350.55\nPaint 6.0 hrs @ $66.50/hr $399.00\nMaterials 6.0 hrs @ $39.50/hr $237.00\nSublet/misc $4.50\nTax (6.00% on parts and materials) $84.49\nTOTAL DUE $2,246.75\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Front fender LH SU-FDL-815 1 $373.45 2.2 2.9\n2 Replace Grille assembly SU-GRL-668 1 $261.49 0.7 -\n3 Replace Front bumper cover SU-FBC-532 1 $536.27 2.8 3.1\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

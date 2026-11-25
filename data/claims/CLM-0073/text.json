@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0073 Date reported: 05/15/2026\nPolicy number: HM-OH-585014 Named insured: Raymond K. Morales\nVehicle: 2024 Ford Escape VIN: 1FMN1RWL8RC091239\nDriver at time of loss: Leah Morales Date of loss: 05/11/2026\nTime of loss: 4:50 PM Location: Washington Blvd, Columbus, OH\nType of loss: Collision Other vehicle involved: No\nPolice report filed: Yes - IR-26-45062 Damage (claimant): front bumper, grille, headlight\nDescription of loss (in claimant's words)\nMy car went off Wsahington Blvd in Columbus and struck a concrete barrier. It was dark out. All the damage is in the front -\nbumper is pushed in and a light is broken. My kids were not in the car thank goodness.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "COLUMBUS POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: IR-26-45062 Date of incident: 11 May 2026\nTime: 16:50 Location: Washington Blvd / State Route 9, Columbus, OH\nReporting officer: Ofc. B. Grummond #862 Report date: 11 May 2026\nUnit 1\nDriver / owner: MORALES, LEAH F Vehicle: 2024 FORD ESCAPE\nVIN: 1FMN1RWL8RC091239 Insurance: Halvorne Mutual\nNarrative\nV1 (MORALES, LEAH F) was traveling on Washington Blvd when the driver lost control on dark pavement and struck a concrete\nbarrier. Single vehicle. No injuries. V1 sustained front-end damage.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "KEYSTONE AUTO BODY\nLima, OH - Shop ID SH25\nESTIMATE OF RECORD\nEstimate no.: E58890 Date: May 17, 2026\nCustomer: Raymond K. Morales Insurer / claim: Halvorne Mutual / CLM-0073\nVehicle: 2024 Ford Escape VIN: 1FMN1RWL8RC091239\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Front bumper cover SU-FBC-532 1 $512.05 2.6 3.1\n2 Repl Grille assembly SU-GRL-668 1 $259.99 0.7 -\n3 Repl Headlamp assembly LH SU-HLL-544 1 $475.08 0.8 -\n4 Repl Headlamp assembly RH SU-HLR-597 1 $474.57 0.9 -\n5 Repl Hood panel SU-HOD-479 1 $695.01 1.9 3.5\n6 Repl Front fender LH SU-FDL-815 1 $388.81 2.4 3.1\n7 Repl Front fender RH SU-FDR-778 1 $355.72 2.2 3.0\n8 Repl Radiator support SU-RSP-810 1 $496.31 5.9 1.6\n9 Repl A/C condenser SU-CND-156 1 $382.43 2.1 -\n10 Repl Radiator SU-RAD-934 1 $421.28 2.1 -\nParts $4,461.25\nBody labor 21.6 hrs @ $57.00/hr $1,231.20\nPaint labor 14.3 hrs @ $61.00/hr $872.30\nPaint materials 14.3 hrs @ $38.00/hr $543.40\nMisc / hazmat $7.50\nTax (5.75% on parts and materials) $287.77\nGRAND TOTAL $7,403.42\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

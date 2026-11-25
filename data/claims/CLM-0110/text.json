@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0110 Date reported: 02/03/2026\nPolicy number: HM-IN-166508 Named insured: Elena S. Grummond\nVehicle: 2024 Toyota RAV4 VIN: 2T3AL66A9RE368042\nDriver at time of loss: Elena S. Grummond Date of loss: 01/31/2026\nTime of loss: 3:30 PM Location: Oak Ave, Bloomington, IN\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - IR-26-77756 Damage (claimant): rear bumper, trunk, tail light\nDescription of loss (in claimant's words)\nSitting in traffic on Oak Ave, got rear ended by another car going maybe 25. Rear bumper and trunk are smashed, tail light broken.\nOther driver (Kwame M. Achterberg) admitted fault to the officer. I already got an estimate from the body shop.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "BLOOMINGTON POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: IR-26-77756 Date of incident: 2026-01-31\nTime: 15:30 Location: Oak Ave / Lincoln Hwy, Bloomington, IN\nReporting officer: Ofc. T. Grummond #649 Report date: 2026-01-31\nUnit 1\nDriver / owner: GRUMMOND, ELENA S Vehicle: 2024 TOYOTA RAV4\nVIN: 2T3AL66A9RE368042 Insurance: Halvorne Mutual\nUnit 2\nDriver: ACHTERBERG, KWAME M Insurance: other carrier\nNarrative\nV1 (GRUMMOND, ELENA S) was stopped for a red signal at Oak Ave and Lincoln Hwy. V2 (ACHTERBERG, KWAME M) failed to\nstop and struck V1 in the rear. No injuries reported. V2 cited for following too closely. V1 rear damage observed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "LAKEVIEW AUTOWORKS\nLafayette, IN - Shop ID SH02\nPreliminary Estimate\nEstimate no.: E44932 Date: February 01, 2026\nCustomer: Elena S. Grummond Insurer / claim: Halvorne Mutual / CLM-0110\nVehicle: 2024 Toyota RAV4 VIN: 2T3AL66A9RE368042\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R SU-RBC-252 Rear bumper cover 1 $488.39 2.5 3.1\n2 R&R SU-TLL-648 Tail lamp assembly LH1 $294.65 0.5 -\n3 R&R SU-TLR-268 Tail lamp assembly RH1 $316.54 0.5 -\n4 R&R SU-TRK-907 Trunk lid / liftgate 1 $752.98 2.1 3.3\n5 R&R SU-RBP-748 Rear body panel 1 $352.06 7.3 2.5\n6 R&R SU-QPL-370 Quarter panel LH 1 $889.54 11.1 3.6\nParts total $3,094.16\nSheet metal labor 24.0 hrs @ $55.00/hr $1,320.00\nRefinish labor 12.5 hrs @ $55.50/hr $693.75\nPaint supplies 12.5 hrs @ $36.00/hr $450.00\nShop supplies $4.50\nSales tax (7.00% on parts and materials) $248.09\nESTIMATE TOTAL $5,810.50\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

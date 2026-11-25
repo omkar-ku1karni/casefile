@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0023 Date reported: 03/27/2026\nPolicy number: HM-OH-943565 Named insured: Mei W. Larkin\nVehicle: 2021 Chevrolet Silverado 1500 VIN: 1GC6X3BC4MD174929\nDriver at time of loss: Mei Larkin Date of loss: 03/23/2026\nTime of loss: 11:05 AM Location: Market St, Lima, OH\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - CR-26-39724 Damage (claimant): driver side doors and mirror\nDescription of loss (in claimant's words)\nI was going through the intersection of Market St and Washington Blvd on a green light and a car ran the stop sign and hit my\ndriver side. Other driver was Tomas R. Grummond. Police report was filed. I already got an estimate from the body shop.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "LIMA POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: CR-26-39724 Date of incident: 2026-03-23\nTime: 11:05 Location: Market St / Washington Blvd, Lima, OH\nReporting officer: Ofc. M. Whitaker #500 Report date: 2026-03-23\nUnit 1\nDriver / owner: LARKIN, MEI W Vehicle: 2021 CHEVROLET SILVERADO 1500\nVIN: 1GC6X3BC4MD174929 Insurance: Halvorne Mutual\nUnit 2\nDriver: GRUMMOND, TOMAS R Insurance: other carrier\nNarrative\nV2 (GRUMMOND, TOMAS R) failed to yield at the stop sign on Washington Blvd and struck V1 (LARKIN, MEI W) on the driver\nside. V2 cited for failure to yield. V1 driver side damage.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "HARBOR COLLISION\nDayton, OH - Shop ID SH04\nESTIMATE OF RECORD\nEstimate no.: E56958 Date: March 29, 2026\nCustomer: Mei W. Larkin Insurer / claim: Halvorne Mutual / CLM-0023\nVehicle: 2021 Chevrolet Silverado 1500 VIN: 1GC6X3BC4MD174929\nLine Op Description Part No. Qty Price Labor Paint\n1 Repl Front door shell LH TR-DFL-647 1 $1,128.21 4.7 3.6\n2 Repl Rear door shell LH TR-DRL-543 1 $1,027.35 4.7 3.2\n3 Repl Outside mirror LH TR-MRL-887 1 $402.90 0.8 0.6\n4 Repl Front fender LH TR-FDL-326 1 $400.06 2.4 3.1\n5 Repl Quarter panel LH TR-QPL-862 1 $1,005.70 12.6 3.7\nParts $3,964.22\nBody labor 25.2 hrs @ $59.50/hr $1,499.40\nPaint labor 14.2 hrs @ $60.00/hr $852.00\nPaint materials 14.2 hrs @ $37.50/hr $532.50\nMisc / hazmat $0.00\nTax (5.75% on parts and materials) $258.56\nGRAND TOTAL $7,106.68\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

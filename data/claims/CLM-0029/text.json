@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0029 Date reported: 03/06/2026\nPolicy number: HM-IN-736969 Named insured: Victor L. Grummond\nVehicle: 2013 Toyota Camry VIN: 4T1BCTXF3DH910421\nDriver at time of loss: Victor L. Grummond Date of loss: 03/03/2026\nTime of loss: 6:00 PM Location: Route 23, Lafayette, IN\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - TR-26-98291 Damage (claimant): front bumper, grille, headlight\nDescription of loss (in claimant's words)\nTraffic stopped suddenly on Route 23 near County Rd 12 and I could not stop in time and hit the car in front of me. Front end\ndamage. The other driver was Wesley T. Delgado, police came. I already got an estimate from the body shop. I have pictures on\nmy phone if you need them.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "LAFAYETTE POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: TR-26-98291 Date of incident: 03 Mar 2026\nTime: 18:00 Location: Route 23 / County Rd 12, Lafayette, IN\nReporting officer: Ofc. A. Brennan #511 Report date: 03 Mar 2026\nUnit 1\nDriver / owner: GRUMMOND, VICTOR L Vehicle: 2013 TOYOTA CAMRY\nVIN: 4T1BCTXF3DH910421 Insurance: Halvorne Mutual\nUnit 2\nDriver: DELGADO, WESLEY T Insurance: other carrier\nNarrative\nV1 (GRUMMOND, VICTOR L) struck the rear of V2 (DELGADO, WESLEY T) which was slowing for traffic on Route 23 near\nCounty Rd 12. V1 front-end damage. V1 driver cited for assured clear distance.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "PRECISION BODY & PAINT\nKokomo, IN - Shop ID SH11\nPreliminary Estimate\nEstimate no.: E15748 Date: March 05, 2026\nCustomer: Victor L. Grummond Insurer / claim: Halvorne Mutual / CLM-0029\nVehicle: 2013 Toyota Camry VIN: 4T1BCTXF3DH910421\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R MS-FBC-892 Front bumper cover 1 $464.97 2.5 2.8\n2 R&R MS-GRL-903 Grille assembly 1 $246.67 0.6 -\n3 R&R MS-HLL-930 Headlamp assembly LH1 $407.82 0.8 -\n4 R&R MS-HLR-868 Headlamp assembly R1H $429.59 0.8 -\n5 R&R MS-HOD-803 Hood panel 1 $610.80 1.7 3.3\n6 R&R MS-FDL-405 Front fender LH 1 $349.39 2.0 2.8\n7 R&R MS-FDR-830 Front fender RH 1 $310.27 2.1 2.7\n8 R&R MS-RSP-359 Radiator support 1 $416.46 6.2 1.6\n9 R&R MS-CND-764 A/C condenser 1 $368.25 1.9 -\n10 R&R MS-RAD-197 Radiator 1 $359.04 1.8 -\nParts total $3,963.26\nSheet metal labor 20.4 hrs @ $54.50/hr $1,111.80\nRefinish labor 13.2 hrs @ $58.00/hr $765.60\nPaint supplies 13.2 hrs @ $35.50/hr $468.60\nShop supplies $4.50\nSales tax (7.00% on parts and materials) $310.23\nESTIMATE TOTAL $6,623.99\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

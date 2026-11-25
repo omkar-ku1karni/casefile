@@ -1,0 +1,20 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0036 Date reported: 10/29/2026\nPolicy number: HM-MI-202752 Named insured: Mateo K. Dempsey\nVehicle: 2019 Ram 1500 VIN: 1C6RJ5UE4KE504939\nDriver at time of loss: Mateo K. Dempsey Date of loss: 10/25/2026\nTime of loss: 12:50 AM Location: Market St, Flint, MI\nType of loss: Collision Other vehicle involved: Yes\nPolice report filed: Yes - TR-26-35319 Damage (claimant): rear bumper and tail lights\nDescription of loss (in claimant's words)\nAnother vehicle struck the back of my car while I was waiting to turn left onto Oak Ave. Damage to the rear of my car. Other driver:\nTomas H. Hartley. Honestly this whole thing has been really stressful. My kids were not in the car thank goodness.\nDocuments submitted with this notice\npolice report, repair estimate\n Page 1"
+  ]
+ },
+ "police_report": {
+  "type": "police_report",
+  "pages": [
+   "FLINT POLICE DEPARTMENT (synthetic)\nTraffic Crash Report\nReport no.: TR-26-35319 Date of incident: 24 Oct 2026\nTime: 23:55 Location: Market St / Oak Ave, Flint, MI\nReporting officer: Ofc. G. Dempsey #854 Report date: 24 Oct 2026\nUnit 1\nDriver / owner: DEMPSEY, MATEO K Vehicle: 2019 RAM 1500\nVIN: 1C6RJ5UE4KE504939 Insurance: Halvorne Mutual\nUnit 2\nDriver: HARTLEY, TOMAS H Insurance: other carrier\nNarrative\nV1 (DEMPSEY, MATEO K) was stopped for a red signal at Market St and Oak Ave. V2 (HARTLEY, TOMAS H) failed to stop and\nstruck V1 in the rear. No injuries reported. V2 cited for following too closely. V1 rear damage observed.\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "IRONSIDE AUTO BODY\nFlint, MI - Shop ID SH06\nESTIMATE OF RECORD\nEstimate no.: E72819 Date: October 28, 2026\nCustomer: Mateo K. Dempsey Insurer / claim: Halvorne Mutual / CLM-0036\nVehicle: 2019 Ram 1500 VIN: 1C6RJ5UE4KE504939\nSummary\nParts $1,343.24\nBody 6.1 hrs @ $63.00/hr $384.30\nPaint 6.0 hrs @ $64.00/hr $384.00\nMaterials 6.0 hrs @ $41.00/hr $246.00\nSublet/misc $4.50\nTax (6.00% on parts and materials) $95.35\nTOTAL DUE $2,457.39\nLn Oper Description Part # Qty Unit $ B hrs P hrs\n1 Replace Front fender LH TR-FDL-326 1 $422.21 2.5 3.0\n2 Replace Front bumper cover TR-FBC-470 1 $630.77 3.0 3.0\n3 Replace Grille assembly TR-GRL-586 1 $290.26 0.6 -\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}

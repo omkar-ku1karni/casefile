@@ -1,0 +1,14 @@
+{
+ "fnol": {
+  "type": "fnol",
+  "pages": [
+   "HALVORNE MUTUAL INSURANCE COMPANY\nFirst Notice of Loss - Auto (Personal Lines)\nClaim no.: CLM-0061 Date reported: 06/20/2026\nPolicy number: HM-OH-734714 Named insured: Mateo N. Sutton\nVehicle: 2017 Chevrolet Equinox VIN: 2GN9S6Y82HB848129\nDriver at time of loss: Mateo Sutton Date of loss: 06/17/2026\nTime of loss: 1:00 PM Location: Cedar Ln, Lima, OH\nType of loss: Collision Other vehicle involved: No\nPolice report filed: No Damage (claimant): front end\nDescription of loss (in claimant's words)\nMy car went off Cedar Ln in Lima and struck a signpost. It was wet out. All the damage is in the front - bumper is pushed in and a\nlight is broken. The shop said they could start next week once approved. I have been a Halvorne customer for years and never\nhad a claim like this.\nDocuments submitted with this notice\nrepair estimate\n Page 1"
+  ]
+ },
+ "estimate": {
+  "type": "estimate",
+  "pages": [
+   "SUMMIT COLLISION CENTER\nFort Wayne, IN - Shop ID SH20\nPreliminary Estimate\nEstimate no.: E47321 Date: June 20, 2026\nCustomer: Mateo N. Sutton Insurer / claim: Halvorne Mutual / CLM-0061\nVehicle: 2017 Chevrolet Equinox VIN: 2GN9S6Y82HB848129\n# Operation Part Number Description Qty Part Amt Body Hrs Ref Hrs\n1 R&R SU-FBC-532 Front bumper cover 1 $539.75 3.0 2.7\nParts total $539.75\nSheet metal labor 3.0 hrs @ $67.50/hr $202.50\nRefinish labor 2.7 hrs @ $55.00/hr $148.50\nPaint supplies 2.7 hrs @ $36.50/hr $98.55\nShop supplies $4.50\nSales tax (5.75% on parts and materials) $36.70\nESTIMATE TOTAL $1,030.50\nLabor and refinish times per shop guide. Prices subject to change; supplements may follow upon teardown. This estimate is not an authorization to repair.\n Page 1"
+  ]
+ }
+}
